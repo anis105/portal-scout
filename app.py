@@ -843,18 +843,6 @@ if st.session_state["page"] == "input":
             st.rerun()
     st.markdown('</div>', unsafe_allow_html=True)
 
-    _raw = df_transfers_raw
-    _actual = _raw[(_raw["to_school"] != _raw["from_school"]) & (_raw["to_school"] != "NA") & (_raw["to_school"].notna())]
-    _n_real = len(_actual)
-    _n_boot = len(df_transfers)
-    _n_conf = _actual["from_conf"].nunique()
-    st.markdown(
-        '<p style="font-size:0.72rem;color:#BBBBBB;text-align:center;margin-top:2rem;">'
-        + str(_n_boot) + ' training samples (' + str(_n_real) + ' real transfers, smoothed bootstrap) across '
-        + str(_n_conf) + ' conferences</p>',
-        unsafe_allow_html=True,
-    )
-
     st.markdown(
         '<p class="footer">Transfer Portal Evaluator &middot; Built for Maryland Basketball</p>',
         unsafe_allow_html=True,
