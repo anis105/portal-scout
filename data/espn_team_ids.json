@@ -1,0 +1,1358 @@
+{
+  "Abilene Christian": {
+    "conf": "WAC",
+    "id": "2000"
+  },
+  "Air Force": {
+    "conf": "Mountain West",
+    "id": "2005"
+  },
+  "Alabama": {
+    "conf": "SEC",
+    "id": "333"
+  },
+  "Alabama A&M": {
+    "conf": "SWAC",
+    "id": "2010"
+  },
+  "Alabama State": {
+    "conf": "SWAC",
+    "id": "2011"
+  },
+  "Alcorn State": {
+    "conf": "SWAC",
+    "id": "2016"
+  },
+  "American University": {
+    "conf": "Patriot",
+    "id": "44"
+  },
+  "Appalachian State": {
+    "conf": "Sun Belt",
+    "id": "2026"
+  },
+  "Arizona": {
+    "conf": "Big 12",
+    "id": "12"
+  },
+  "Arizona State": {
+    "conf": "Big 12",
+    "id": "9"
+  },
+  "Arkansas": {
+    "conf": "SEC",
+    "id": "8"
+  },
+  "Arkansas State": {
+    "conf": "Sun Belt",
+    "id": "2032"
+  },
+  "Arkansas-Pine Bluff": {
+    "conf": "SWAC",
+    "id": "2029"
+  },
+  "Army": {
+    "conf": "American",
+    "id": "349"
+  },
+  "Auburn": {
+    "conf": "SEC",
+    "id": "2"
+  },
+  "Austin Peay": {
+    "conf": "ASUN",
+    "id": "2046"
+  },
+  "BYU": {
+    "conf": "Big 12",
+    "id": "252"
+  },
+  "Baylor": {
+    "conf": "Big 12",
+    "id": "239"
+  },
+  "Bellarmine": {
+    "conf": "ASUN",
+    "id": "91"
+  },
+  "Belmont": {
+    "conf": "Missouri Valley",
+    "id": "2057"
+  },
+  "Bethune-Cookman": {
+    "conf": "SWAC",
+    "id": "2065"
+  },
+  "Binghamton": {
+    "conf": "America East",
+    "id": "2066"
+  },
+  "Boise State": {
+    "conf": "Mountain West",
+    "id": "68"
+  },
+  "Boston College": {
+    "conf": "ACC",
+    "id": "103"
+  },
+  "Boston University": {
+    "conf": "Patriot",
+    "id": "104"
+  },
+  "Bradley": {
+    "conf": "Missouri Valley",
+    "id": "71"
+  },
+  "Brown": {
+    "conf": "Ivy League",
+    "id": "225"
+  },
+  "Bryant": {
+    "conf": "America East",
+    "id": "2803"
+  },
+  "Bucknell": {
+    "conf": "Patriot",
+    "id": "2083"
+  },
+  "Butler": {
+    "conf": "Big East",
+    "id": "2086"
+  },
+  "Cal Poly": {
+    "conf": "Big West",
+    "id": "13"
+  },
+  "Cal State Bakersfield": {
+    "conf": "Big West",
+    "id": "2934"
+  },
+  "Cal State Fullerton": {
+    "conf": "Big West",
+    "id": "2239"
+  },
+  "Cal State Northridge": {
+    "conf": "Big West",
+    "id": "2463"
+  },
+  "California Baptist": {
+    "conf": "WAC",
+    "id": "2856"
+  },
+  "Campbell": {
+    "conf": "CAA",
+    "id": "2097"
+  },
+  "Canisius": {
+    "conf": "MAAC",
+    "id": "2099"
+  },
+  "Central Arkansas": {
+    "conf": "ASUN",
+    "id": "2110"
+  },
+  "Central Connecticut": {
+    "conf": "NEC",
+    "id": "2115"
+  },
+  "Charleston": {
+    "conf": "CAA",
+    "id": "232"
+  },
+  "Charleston Southern": {
+    "conf": "Big South",
+    "id": "2127"
+  },
+  "Charlotte": {
+    "conf": "American",
+    "id": "2429"
+  },
+  "Chattanooga": {
+    "conf": "Southern",
+    "id": "236"
+  },
+  "Chicago State": {
+    "conf": "NEC",
+    "id": "2130"
+  },
+  "Cincinnati": {
+    "conf": "Big 12",
+    "id": "2132"
+  },
+  "Clemson": {
+    "conf": "ACC",
+    "id": "228"
+  },
+  "Cleveland State": {
+    "conf": "Horizon",
+    "id": "325"
+  },
+  "Coastal Carolina": {
+    "conf": "Sun Belt",
+    "id": "324"
+  },
+  "Colgate": {
+    "conf": "Patriot",
+    "id": "2142"
+  },
+  "Colorado": {
+    "conf": "Big 12",
+    "id": "38"
+  },
+  "Colorado State": {
+    "conf": "Mountain West",
+    "id": "36"
+  },
+  "Columbia": {
+    "conf": "Ivy League",
+    "id": "171"
+  },
+  "Coppin State": {
+    "conf": "MEAC",
+    "id": "2154"
+  },
+  "Cornell": {
+    "conf": "Ivy League",
+    "id": "172"
+  },
+  "Creighton": {
+    "conf": "Big East",
+    "id": "156"
+  },
+  "Dartmouth": {
+    "conf": "Ivy League",
+    "id": "159"
+  },
+  "Davidson": {
+    "conf": "A-10",
+    "id": "2166"
+  },
+  "Dayton": {
+    "conf": "A-10",
+    "id": "2168"
+  },
+  "DePaul": {
+    "conf": "Big East",
+    "id": "305"
+  },
+  "Delaware": {
+    "conf": "CAA",
+    "id": "48"
+  },
+  "Delaware State": {
+    "conf": "MEAC",
+    "id": "2169"
+  },
+  "Denver": {
+    "conf": "Summit",
+    "id": "2172"
+  },
+  "Detroit Mercy": {
+    "conf": "Horizon",
+    "id": "2174"
+  },
+  "Drake": {
+    "conf": "Missouri Valley",
+    "id": "2181"
+  },
+  "Drexel": {
+    "conf": "CAA",
+    "id": "2182"
+  },
+  "Duke": {
+    "conf": "ACC",
+    "id": "150"
+  },
+  "Duquesne": {
+    "conf": "A-10",
+    "id": "2184"
+  },
+  "East Carolina": {
+    "conf": "American",
+    "id": "151"
+  },
+  "East Tennessee State": {
+    "conf": "Southern",
+    "id": "2193"
+  },
+  "East Texas A&M": {
+    "conf": "Southland",
+    "id": "2837"
+  },
+  "Eastern Illinois": {
+    "conf": "OVC",
+    "id": "2197"
+  },
+  "Eastern Kentucky": {
+    "conf": "ASUN",
+    "id": "2198"
+  },
+  "Eastern Washington": {
+    "conf": "Big Sky",
+    "id": "331"
+  },
+  "Elon": {
+    "conf": "CAA",
+    "id": "2210"
+  },
+  "Evansville": {
+    "conf": "Missouri Valley",
+    "id": "339"
+  },
+  "FIU": {
+    "conf": "C-USA",
+    "id": "2229"
+  },
+  "Fairfield": {
+    "conf": "MAAC",
+    "id": "2217"
+  },
+  "Fairleigh Dickinson": {
+    "conf": "NEC",
+    "id": "161"
+  },
+  "Florida": {
+    "conf": "SEC",
+    "id": "57"
+  },
+  "Florida A&M": {
+    "conf": "SWAC",
+    "id": "50"
+  },
+  "Florida Atlantic": {
+    "conf": "American",
+    "id": "2226"
+  },
+  "Florida Gulf Coast": {
+    "conf": "ASUN",
+    "id": "526"
+  },
+  "Florida State": {
+    "conf": "ACC",
+    "id": "52"
+  },
+  "Fordham": {
+    "conf": "A-10",
+    "id": "2230"
+  },
+  "Fresno State": {
+    "conf": "Mountain West",
+    "id": "278"
+  },
+  "Furman": {
+    "conf": "Southern",
+    "id": "231"
+  },
+  "Gardner-Webb": {
+    "conf": "Big South",
+    "id": "2241"
+  },
+  "George Mason": {
+    "conf": "A-10",
+    "id": "2244"
+  },
+  "George Washington": {
+    "conf": "A-10",
+    "id": "45"
+  },
+  "Georgetown": {
+    "conf": "Big East",
+    "id": "46"
+  },
+  "Georgia": {
+    "conf": "SEC",
+    "id": "61"
+  },
+  "Georgia Southern": {
+    "conf": "Sun Belt",
+    "id": "290"
+  },
+  "Georgia State": {
+    "conf": "Sun Belt",
+    "id": "2247"
+  },
+  "Georgia Tech": {
+    "conf": "ACC",
+    "id": "59"
+  },
+  "Gonzaga": {
+    "conf": "WCC",
+    "id": "2250"
+  },
+  "Grambling": {
+    "conf": "SWAC",
+    "id": "2755"
+  },
+  "Grand Canyon": {
+    "conf": "WAC",
+    "id": "2253"
+  },
+  "Green Bay": {
+    "conf": "Horizon",
+    "id": "2739"
+  },
+  "Hampton": {
+    "conf": "CAA",
+    "id": "2261"
+  },
+  "Harvard": {
+    "conf": "Ivy League",
+    "id": "108"
+  },
+  "Hawaii": {
+    "conf": "Big West",
+    "id": "62"
+  },
+  "High Point": {
+    "conf": "Big South",
+    "id": "2272"
+  },
+  "Hofstra": {
+    "conf": "CAA",
+    "id": "2275"
+  },
+  "Holy Cross": {
+    "conf": "Patriot",
+    "id": "107"
+  },
+  "Houston": {
+    "conf": "Big 12",
+    "id": "248"
+  },
+  "Houston Christian": {
+    "conf": "Southland",
+    "id": "2277"
+  },
+  "Howard": {
+    "conf": "MEAC",
+    "id": "47"
+  },
+  "Idaho": {
+    "conf": "Big Sky",
+    "id": "70"
+  },
+  "Idaho State": {
+    "conf": "Big Sky",
+    "id": "304"
+  },
+  "Illinois": {
+    "conf": "Big Ten",
+    "id": "356"
+  },
+  "Illinois State": {
+    "conf": "Missouri Valley",
+    "id": "2287"
+  },
+  "Incarnate Word": {
+    "conf": "Southland",
+    "id": "2916"
+  },
+  "Indiana": {
+    "conf": "Big Ten",
+    "id": "84"
+  },
+  "Indiana State": {
+    "conf": "Missouri Valley",
+    "id": "282"
+  },
+  "Iona": {
+    "conf": "MAAC",
+    "id": "314"
+  },
+  "Iowa": {
+    "conf": "Big Ten",
+    "id": "2294"
+  },
+  "Iowa State": {
+    "conf": "Big 12",
+    "id": "66"
+  },
+  "Jackson State": {
+    "conf": "SWAC",
+    "id": "2296"
+  },
+  "Jacksonville": {
+    "conf": "ASUN",
+    "id": "294"
+  },
+  "Jacksonville State": {
+    "conf": "C-USA",
+    "id": "55"
+  },
+  "James Madison": {
+    "conf": "Sun Belt",
+    "id": "256"
+  },
+  "Kansas": {
+    "conf": "Big 12",
+    "id": "2305"
+  },
+  "Kansas City": {
+    "conf": "Summit",
+    "id": "140"
+  },
+  "Kansas State": {
+    "conf": "Big 12",
+    "id": "2306"
+  },
+  "Kennesaw State": {
+    "conf": "C-USA",
+    "id": "338"
+  },
+  "Kentucky": {
+    "conf": "SEC",
+    "id": "96"
+  },
+  "LIU": {
+    "conf": "NEC",
+    "id": "112358"
+  },
+  "LSU": {
+    "conf": "SEC",
+    "id": "99"
+  },
+  "La Salle": {
+    "conf": "A-10",
+    "id": "2325"
+  },
+  "Lafayette": {
+    "conf": "Patriot",
+    "id": "322"
+  },
+  "Lamar": {
+    "conf": "WAC",
+    "id": "2320"
+  },
+  "Le Moyne": {
+    "conf": "NEC",
+    "id": "2330"
+  },
+  "Lehigh": {
+    "conf": "Patriot",
+    "id": "2329"
+  },
+  "Liberty": {
+    "conf": "C-USA",
+    "id": "2335"
+  },
+  "Lipscomb": {
+    "conf": "ASUN",
+    "id": "288"
+  },
+  "Little Rock": {
+    "conf": "OVC",
+    "id": "2031"
+  },
+  "Long Beach State": {
+    "conf": "Big West",
+    "id": "299"
+  },
+  "Longwood": {
+    "conf": "Big South",
+    "id": "2344"
+  },
+  "Louisiana": {
+    "conf": "Sun Belt",
+    "id": "309"
+  },
+  "Louisiana Tech": {
+    "conf": "C-USA",
+    "id": "2348"
+  },
+  "Louisiana-Monroe": {
+    "conf": "Sun Belt",
+    "id": "2433"
+  },
+  "Louisville": {
+    "conf": "ACC",
+    "id": "97"
+  },
+  "Loyola (MD)": {
+    "conf": "Patriot",
+    "id": "2352"
+  },
+  "Loyola Chicago": {
+    "conf": "A-10",
+    "id": "2350"
+  },
+  "Loyola Marymount": {
+    "conf": "WCC",
+    "id": "2351"
+  },
+  "Maine": {
+    "conf": "America East",
+    "id": "311"
+  },
+  "Manhattan": {
+    "conf": "MAAC",
+    "id": "2363"
+  },
+  "Marist": {
+    "conf": "MAAC",
+    "id": "2368"
+  },
+  "Marquette": {
+    "conf": "Big East",
+    "id": "269"
+  },
+  "Marshall": {
+    "conf": "Sun Belt",
+    "id": "276"
+  },
+  "Maryland": {
+    "conf": "Big Ten",
+    "id": "120"
+  },
+  "Massachusetts": {
+    "conf": "A-10",
+    "id": "113"
+  },
+  "McNeese": {
+    "conf": "Southland",
+    "id": "2377"
+  },
+  "Memphis": {
+    "conf": "American",
+    "id": "235"
+  },
+  "Mercer": {
+    "conf": "Southern",
+    "id": "2382"
+  },
+  "Mercyhurst": {
+    "conf": "NEC",
+    "id": "2385"
+  },
+  "Miami": {
+    "conf": "ACC",
+    "id": "2390"
+  },
+  "Michigan": {
+    "conf": "Big Ten",
+    "id": "130"
+  },
+  "Michigan State": {
+    "conf": "Big Ten",
+    "id": "127"
+  },
+  "Middle Tennessee": {
+    "conf": "C-USA",
+    "id": "2393"
+  },
+  "Milwaukee": {
+    "conf": "Horizon",
+    "id": "270"
+  },
+  "Minnesota": {
+    "conf": "Big Ten",
+    "id": "135"
+  },
+  "Mississippi State": {
+    "conf": "SEC",
+    "id": "344"
+  },
+  "Mississippi Valley State": {
+    "conf": "SWAC",
+    "id": "2400"
+  },
+  "Missouri": {
+    "conf": "SEC",
+    "id": "142"
+  },
+  "Missouri State": {
+    "conf": "Missouri Valley",
+    "id": "2623"
+  },
+  "Monmouth": {
+    "conf": "CAA",
+    "id": "2405"
+  },
+  "Montana": {
+    "conf": "Big Sky",
+    "id": "149"
+  },
+  "Montana State": {
+    "conf": "Big Sky",
+    "id": "147"
+  },
+  "Morehead State": {
+    "conf": "OVC",
+    "id": "2413"
+  },
+  "Morgan State": {
+    "conf": "MEAC",
+    "id": "2415"
+  },
+  "Mount St. Mary's": {
+    "conf": "MAAC",
+    "id": "116"
+  },
+  "Murray State": {
+    "conf": "Missouri Valley",
+    "id": "93"
+  },
+  "NC State": {
+    "conf": "ACC",
+    "id": "152"
+  },
+  "NJIT": {
+    "conf": "America East",
+    "id": "2885"
+  },
+  "Navy": {
+    "conf": "Patriot",
+    "id": "2426"
+  },
+  "Nebraska": {
+    "conf": "Big Ten",
+    "id": "158"
+  },
+  "Nevada": {
+    "conf": "Mountain West",
+    "id": "2440"
+  },
+  "New Hampshire": {
+    "conf": "America East",
+    "id": "160"
+  },
+  "New Mexico": {
+    "conf": "Mountain West",
+    "id": "167"
+  },
+  "New Mexico State": {
+    "conf": "C-USA",
+    "id": "166"
+  },
+  "New Orleans": {
+    "conf": "Southland",
+    "id": "2443"
+  },
+  "Niagara": {
+    "conf": "MAAC",
+    "id": "315"
+  },
+  "Nicholls": {
+    "conf": "Southland",
+    "id": "2447"
+  },
+  "Norfolk State": {
+    "conf": "MEAC",
+    "id": "2450"
+  },
+  "North Alabama": {
+    "conf": "ASUN",
+    "id": "2453"
+  },
+  "North Carolina": {
+    "conf": "ACC",
+    "id": "153"
+  },
+  "North Carolina A&T": {
+    "conf": "CAA",
+    "id": "2448"
+  },
+  "North Carolina Central": {
+    "conf": "MEAC",
+    "id": "2428"
+  },
+  "North Dakota": {
+    "conf": "Summit",
+    "id": "155"
+  },
+  "North Dakota State": {
+    "conf": "Summit",
+    "id": "2449"
+  },
+  "North Florida": {
+    "conf": "ASUN",
+    "id": "2454"
+  },
+  "North Texas": {
+    "conf": "American",
+    "id": "249"
+  },
+  "Northeastern": {
+    "conf": "CAA",
+    "id": "111"
+  },
+  "Northern Arizona": {
+    "conf": "Big Sky",
+    "id": "2464"
+  },
+  "Northern Colorado": {
+    "conf": "Big Sky",
+    "id": "2458"
+  },
+  "Northern Iowa": {
+    "conf": "Missouri Valley",
+    "id": "2460"
+  },
+  "Northern Kentucky": {
+    "conf": "Horizon",
+    "id": "94"
+  },
+  "Northwestern": {
+    "conf": "Big Ten",
+    "id": "77"
+  },
+  "Northwestern State": {
+    "conf": "Southland",
+    "id": "2466"
+  },
+  "Notre Dame": {
+    "conf": "ACC",
+    "id": "87"
+  },
+  "Oakland": {
+    "conf": "Horizon",
+    "id": "2473"
+  },
+  "Ohio State": {
+    "conf": "Big Ten",
+    "id": "194"
+  },
+  "Oklahoma": {
+    "conf": "SEC",
+    "id": "201"
+  },
+  "Oklahoma State": {
+    "conf": "Big 12",
+    "id": "197"
+  },
+  "Old Dominion": {
+    "conf": "Sun Belt",
+    "id": "295"
+  },
+  "Ole Miss": {
+    "conf": "SEC",
+    "id": "145"
+  },
+  "Omaha": {
+    "conf": "Summit",
+    "id": "2437"
+  },
+  "Oral Roberts": {
+    "conf": "Summit",
+    "id": "198"
+  },
+  "Oregon": {
+    "conf": "Big Ten",
+    "id": "2483"
+  },
+  "Oregon State": {
+    "conf": "Pac-12",
+    "id": "204"
+  },
+  "Pacific": {
+    "conf": "WCC",
+    "id": "279"
+  },
+  "Penn": {
+    "conf": "Ivy League",
+    "id": "219"
+  },
+  "Penn State": {
+    "conf": "Big Ten",
+    "id": "213"
+  },
+  "Pepperdine": {
+    "conf": "WCC",
+    "id": "2492"
+  },
+  "Pittsburgh": {
+    "conf": "ACC",
+    "id": "221"
+  },
+  "Portland": {
+    "conf": "WCC",
+    "id": "2501"
+  },
+  "Portland State": {
+    "conf": "Big Sky",
+    "id": "2502"
+  },
+  "Prairie View A&M": {
+    "conf": "SWAC",
+    "id": "2504"
+  },
+  "Presbyterian": {
+    "conf": "Big South",
+    "id": "2506"
+  },
+  "Princeton": {
+    "conf": "Ivy League",
+    "id": "163"
+  },
+  "Providence": {
+    "conf": "Big East",
+    "id": "2507"
+  },
+  "Purdue": {
+    "conf": "Big Ten",
+    "id": "2509"
+  },
+  "Purdue Fort Wayne": {
+    "conf": "Horizon",
+    "id": "2870"
+  },
+  "Quinnipiac": {
+    "conf": "MAAC",
+    "id": "2514"
+  },
+  "Radford": {
+    "conf": "Big South",
+    "id": "2515"
+  },
+  "Rhode Island": {
+    "conf": "A-10",
+    "id": "227"
+  },
+  "Rice": {
+    "conf": "American",
+    "id": "242"
+  },
+  "Richmond": {
+    "conf": "A-10",
+    "id": "257"
+  },
+  "Rider": {
+    "conf": "MAAC",
+    "id": "2520"
+  },
+  "Robert Morris": {
+    "conf": "Horizon",
+    "id": "2523"
+  },
+  "Rutgers": {
+    "conf": "Big Ten",
+    "id": "164"
+  },
+  "SIU Edwardsville": {
+    "conf": "OVC",
+    "id": "2565"
+  },
+  "SMU": {
+    "conf": "ACC",
+    "id": "2567"
+  },
+  "Sacramento State": {
+    "conf": "Big Sky",
+    "id": "16"
+  },
+  "Sacred Heart": {
+    "conf": "NEC",
+    "id": "2529"
+  },
+  "Saint Francis": {
+    "conf": "NEC",
+    "id": "2598"
+  },
+  "Saint Joseph's": {
+    "conf": "A-10",
+    "id": "2603"
+  },
+  "Saint Louis": {
+    "conf": "A-10",
+    "id": "139"
+  },
+  "Saint Mary's": {
+    "conf": "WCC",
+    "id": "2608"
+  },
+  "Saint Peter's": {
+    "conf": "MAAC",
+    "id": "2612"
+  },
+  "Sam Houston": {
+    "conf": "C-USA",
+    "id": "2534"
+  },
+  "Samford": {
+    "conf": "Southern",
+    "id": "2535"
+  },
+  "San Diego": {
+    "conf": "WCC",
+    "id": "301"
+  },
+  "San Diego State": {
+    "conf": "Mountain West",
+    "id": "21"
+  },
+  "San Francisco": {
+    "conf": "WCC",
+    "id": "2539"
+  },
+  "San Jose State": {
+    "conf": "Mountain West",
+    "id": "23"
+  },
+  "Santa Clara": {
+    "conf": "WCC",
+    "id": "2541"
+  },
+  "Seattle": {
+    "conf": "WAC",
+    "id": "2547"
+  },
+  "Seton Hall": {
+    "conf": "Big East",
+    "id": "2550"
+  },
+  "Siena": {
+    "conf": "MAAC",
+    "id": "2561"
+  },
+  "South Alabama": {
+    "conf": "Sun Belt",
+    "id": "6"
+  },
+  "South Carolina": {
+    "conf": "SEC",
+    "id": "2579"
+  },
+  "South Carolina State": {
+    "conf": "MEAC",
+    "id": "2569"
+  },
+  "South Dakota": {
+    "conf": "Summit",
+    "id": "233"
+  },
+  "South Dakota State": {
+    "conf": "Summit",
+    "id": "2571"
+  },
+  "South Florida": {
+    "conf": "American",
+    "id": "58"
+  },
+  "Southeastern Louisiana": {
+    "conf": "Southland",
+    "id": "2545"
+  },
+  "Southern Illinois": {
+    "conf": "Missouri Valley",
+    "id": "79"
+  },
+  "Southern Miss": {
+    "conf": "Sun Belt",
+    "id": "2572"
+  },
+  "Southern Utah": {
+    "conf": "WAC",
+    "id": "253"
+  },
+  "St. Bonaventure": {
+    "conf": "A-10",
+    "id": "179"
+  },
+  "St. John's": {
+    "conf": "Big East",
+    "id": "2599"
+  },
+  "Stanford": {
+    "conf": "ACC",
+    "id": "24"
+  },
+  "Stephen F. Austin": {
+    "conf": "WAC",
+    "id": "2617"
+  },
+  "Stetson": {
+    "conf": "ASUN",
+    "id": "56"
+  },
+  "Stonehill": {
+    "conf": "NEC",
+    "id": "284"
+  },
+  "Stony Brook": {
+    "conf": "CAA",
+    "id": "2619"
+  },
+  "Syracuse": {
+    "conf": "ACC",
+    "id": "183"
+  },
+  "TCU": {
+    "conf": "Big 12",
+    "id": "2628"
+  },
+  "Tarleton State": {
+    "conf": "WAC",
+    "id": "2627"
+  },
+  "Temple": {
+    "conf": "American",
+    "id": "218"
+  },
+  "Tennessee": {
+    "conf": "SEC",
+    "id": "2633"
+  },
+  "Tennessee State": {
+    "conf": "OVC",
+    "id": "2634"
+  },
+  "Tennessee Tech": {
+    "conf": "OVC",
+    "id": "2635"
+  },
+  "Texas": {
+    "conf": "SEC",
+    "id": "251"
+  },
+  "Texas A&M": {
+    "conf": "SEC",
+    "id": "245"
+  },
+  "Texas A&M-Corpus Christi": {
+    "conf": "Southland",
+    "id": "357"
+  },
+  "Texas Southern": {
+    "conf": "SWAC",
+    "id": "2640"
+  },
+  "Texas State": {
+    "conf": "Sun Belt",
+    "id": "326"
+  },
+  "Texas Tech": {
+    "conf": "Big 12",
+    "id": "2641"
+  },
+  "The Citadel": {
+    "conf": "Southern",
+    "id": "2643"
+  },
+  "Towson": {
+    "conf": "CAA",
+    "id": "119"
+  },
+  "Troy": {
+    "conf": "Sun Belt",
+    "id": "2653"
+  },
+  "Tulane": {
+    "conf": "American",
+    "id": "2655"
+  },
+  "Tulsa": {
+    "conf": "American",
+    "id": "202"
+  },
+  "UAB": {
+    "conf": "American",
+    "id": "5"
+  },
+  "UC Davis": {
+    "conf": "Big West",
+    "id": "302"
+  },
+  "UC Irvine": {
+    "conf": "Big West",
+    "id": "300"
+  },
+  "UC Riverside": {
+    "conf": "Big West",
+    "id": "27"
+  },
+  "UC San Diego": {
+    "conf": "Big West",
+    "id": "28"
+  },
+  "UC Santa Barbara": {
+    "conf": "Big West",
+    "id": "2540"
+  },
+  "UCF": {
+    "conf": "Big 12",
+    "id": "2116"
+  },
+  "UCLA": {
+    "conf": "Big Ten",
+    "id": "26"
+  },
+  "UConn": {
+    "conf": "Big East",
+    "id": "41"
+  },
+  "UIC": {
+    "conf": "Missouri Valley",
+    "id": "82"
+  },
+  "UMBC": {
+    "conf": "America East",
+    "id": "2378"
+  },
+  "UMass Lowell": {
+    "conf": "America East",
+    "id": "2349"
+  },
+  "UNC": {
+    "conf": "ACC",
+    "id": "350"
+  },
+  "UNC Asheville": {
+    "conf": "Big South",
+    "id": "2427"
+  },
+  "UNC Greensboro": {
+    "conf": "Southern",
+    "id": "2430"
+  },
+  "UNLV": {
+    "conf": "Mountain West",
+    "id": "2439"
+  },
+  "USC": {
+    "conf": "Big Ten",
+    "id": "30"
+  },
+  "UT Arlington": {
+    "conf": "WAC",
+    "id": "250"
+  },
+  "UT Martin": {
+    "conf": "OVC",
+    "id": "2630"
+  },
+  "UTEP": {
+    "conf": "C-USA",
+    "id": "2638"
+  },
+  "UTSA": {
+    "conf": "American",
+    "id": "2636"
+  },
+  "Utah": {
+    "conf": "Big 12",
+    "id": "254"
+  },
+  "Utah State": {
+    "conf": "Mountain West",
+    "id": "328"
+  },
+  "Utah Tech": {
+    "conf": "WAC",
+    "id": "3101"
+  },
+  "Utah Valley": {
+    "conf": "WAC",
+    "id": "3084"
+  },
+  "VCU": {
+    "conf": "A-10",
+    "id": "2670"
+  },
+  "VMI": {
+    "conf": "Southern",
+    "id": "2678"
+  },
+  "Valparaiso": {
+    "conf": "Missouri Valley",
+    "id": "2674"
+  },
+  "Vanderbilt": {
+    "conf": "SEC",
+    "id": "238"
+  },
+  "Vermont": {
+    "conf": "America East",
+    "id": "261"
+  },
+  "Villanova": {
+    "conf": "Big East",
+    "id": "222"
+  },
+  "Virginia": {
+    "conf": "ACC",
+    "id": "258"
+  },
+  "Virginia Tech": {
+    "conf": "ACC",
+    "id": "259"
+  },
+  "Wagner": {
+    "conf": "NEC",
+    "id": "2681"
+  },
+  "Wake Forest": {
+    "conf": "ACC",
+    "id": "154"
+  },
+  "Washington": {
+    "conf": "Big Ten",
+    "id": "264"
+  },
+  "Washington State": {
+    "conf": "Pac-12",
+    "id": "265"
+  },
+  "Weber State": {
+    "conf": "Big Sky",
+    "id": "2692"
+  },
+  "West Georgia": {
+    "conf": "ASUN",
+    "id": "2698"
+  },
+  "West Virginia": {
+    "conf": "Big 12",
+    "id": "277"
+  },
+  "Western Carolina": {
+    "conf": "Southern",
+    "id": "2717"
+  },
+  "Western Illinois": {
+    "conf": "OVC",
+    "id": "2710"
+  },
+  "Western Kentucky": {
+    "conf": "C-USA",
+    "id": "98"
+  },
+  "Wichita State": {
+    "conf": "American",
+    "id": "2724"
+  },
+  "William & Mary": {
+    "conf": "CAA",
+    "id": "2729"
+  },
+  "Winthrop": {
+    "conf": "Big South",
+    "id": "2737"
+  },
+  "Wisconsin": {
+    "conf": "Big Ten",
+    "id": "275"
+  },
+  "Wofford": {
+    "conf": "Southern",
+    "id": "2747"
+  },
+  "Wright State": {
+    "conf": "Horizon",
+    "id": "2750"
+  },
+  "Wyoming": {
+    "conf": "Mountain West",
+    "id": "2751"
+  },
+  "Xavier": {
+    "conf": "Big East",
+    "id": "2752"
+  },
+  "Yale": {
+    "conf": "Ivy League",
+    "id": "43"
+  },
+  "Youngstown State": {
+    "conf": "Horizon",
+    "id": "2754"
+  }
+}

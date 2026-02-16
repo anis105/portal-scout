@@ -1,0 +1,804 @@
+name,school,conference,position,height,weight,pts,reb,ast,stl,blk,to,min,gp,fg_pct,three_pct,ft_pct,year_label
+Aden Holloway,Alabama,SEC,PG,6-1,180,17.0,2.6,3.9,0.6,0.0,1.5,28.5,21,0.479,0.444,0.827,Jr
+Aiden Sherrell,Alabama,SEC,PF,6-10,255,10.5,5.7,0.9,0.5,2.4,0.8,22.3,24,0.537,0.302,0.701,So
+Amari Allen,Alabama,SEC,PF,6-8,205,11.5,7.5,3.6,1.2,0.8,1.5,28.4,22,0.458,0.376,0.731,Fr
+Davion Hannah,Alabama,SEC,SG,6-6,190,3.3,1.9,0.8,0.7,0.2,1.0,12.7,10,0.462,0.364,0.625,Fr
+Houston Mallette,Alabama,SEC,SG,6-5,202,7.2,4.4,1.1,0.8,0.0,0.5,23.5,25,0.372,0.339,0.879,Sr
+Jalil Bethea,Alabama,SEC,SG,6-5,190,5.4,2.0,0.7,0.2,0.1,0.5,9.5,16,0.41,0.333,0.852,So
+Keitenn Bristow,Alabama,SEC,PF,6-10,205,3.6,4.0,0.5,0.6,0.6,0.8,12.5,10,0.364,0.111,0.733,So
+Labaron Philon Jr.,Alabama,SEC,SG,6-4,185,21.3,3.5,4.9,1.3,0.3,2.7,30.0,24,0.507,0.396,0.777,So
+Latrell Wrightsell,Alabama,SEC,SG,6-3,195,12.6,2.6,2.1,0.9,0.1,0.8,26.2,17,0.394,0.361,0.792,Sr
+London Jemison,Alabama,SEC,PF,6-8,205,6.1,3.4,0.3,0.6,0.4,0.4,14.8,23,0.426,0.354,0.605,Fr
+Noah Williamson,Alabama,SEC,C,7-0,255,1.2,1.6,0.4,0.4,0.4,0.5,8.5,23,0.278,0.1,0.625,Sr
+Taylor Bol Bowen,Alabama,SEC,PF,6-10,202,7.2,5.1,0.5,0.4,1.1,0.8,20.1,20,0.407,0.296,0.875,Jr
+Anthony Dell'Orso,Arizona,Big 12,SG,6-6,205,8.0,2.0,2.4,0.9,0.2,1.4,20.8,25,0.384,0.297,0.86,Sr
+Brayden Burries,Arizona,Big 12,SG,6-4,205,15.7,4.7,2.6,1.6,0.2,1.4,29.1,25,0.5,0.373,0.796,Fr
+Dwayne Aristode,Arizona,Big 12,PF,6-8,220,4.7,2.0,0.8,0.5,0.1,0.5,15.5,24,0.481,0.439,0.588,Fr
+Ivan Kharchenkov,Arizona,Big 12,PF,6-7,220,9.7,3.6,2.2,1.6,0.4,1.2,26.2,25,0.487,0.292,0.725,Fr
+Jaden Bradley,Arizona,Big 12,SG,6-3,200,13.4,3.4,4.4,1.8,0.0,1.6,29.2,25,0.487,0.4,0.798,Sr
+Koa Peat,Arizona,Big 12,PF,6-8,235,13.8,5.4,2.6,0.7,0.7,1.7,27.0,25,0.542,0.333,0.606,Fr
+Motiejus Krivas,Arizona,Big 12,C,7-2,260,11.1,8.7,1.1,0.7,1.9,1.6,24.6,25,0.594,0.333,0.792,Jr
+Tobe Awaka,Arizona,Big 12,PF,6-8,255,10.0,9.7,1.0,0.3,0.7,1.2,21.2,25,0.605,0.625,0.653,Sr
+Adante' Holiman,Arizona State,Big 12,PG,5-11,175,16.9,2.2,2.3,1.2,0.2,1.7,30.2,25,0.418,0.386,0.8,Sr
+Allen Mukeba,Arizona State,Big 12,PF,6-8,247,5.9,3.7,0.8,0.8,1.0,1.0,16.9,25,0.551,0.25,0.519,Sr
+Andrija Grbović,Arizona State,Big 12,PF,6-11,207,7.3,3.2,0.4,0.5,0.2,0.5,20.1,25,0.405,0.361,0.778,Jr
+Anthony Johnson,Arizona State,Big 12,SG,6-3,175,13.2,3.1,1.8,1.2,0.3,2.1,24.3,25,0.444,0.349,0.76,Sr
+Bryce Ford,Arizona State,Big 12,SG,6-4,190,7.2,1.7,0.8,0.4,0.1,0.6,23.2,21,0.388,0.329,0.75,Jr
+Marcus Adams Jr.,Arizona State,Big 12,PF,6-8,195,3.6,2.4,0.2,0.2,0.3,0.5,11.8,14,0.341,0.296,0.7,Jr
+Massamba Diop,Arizona State,Big 12,C,7-1,230,13.9,5.9,1.1,0.7,2.1,1.6,29.0,25,0.591,0.25,0.746,Fr
+Maurice Odum,Arizona State,Big 12,PG,6-2,160,17.0,3.0,6.0,1.5,0.0,3.1,33.7,25,0.397,0.379,0.833,Sr
+Noah Meeusen,Arizona State,Big 12,SG,6-5,209,6.4,3.0,2.5,1.5,0.2,1.3,26.5,22,0.423,0.338,0.848,So
+Santiago Trouet,Arizona State,Big 12,PF,6-11,218,7.7,5.6,0.9,0.7,0.6,0.7,25.1,23,0.456,0.15,0.75,So
+Billy Richmond III,Arkansas,SEC,SG,6-6,205,9.6,3.7,1.8,0.8,0.7,1.1,23.6,25,0.588,0.222,0.76,So
+D.J. Wagner,Arkansas,SEC,SG,6-4,190,7.1,1.2,2.4,1.0,0.3,0.7,22.6,23,0.409,0.333,0.757,Jr
+Darius Acuff Jr.,Arkansas,SEC,SG,6-3,190,21.2,2.9,6.3,0.7,0.4,2.0,34.0,25,0.503,0.432,0.782,Fr
+Isaiah Sealy,Arkansas,SEC,SG,6-7,195,3.9,1.6,0.8,0.4,0.3,0.3,8.5,13,0.5,0.0,0.75,Fr
+Karter Knox,Arkansas,SEC,SG,6-6,220,8.1,4.5,1.2,0.7,0.5,1.0,22.2,22,0.46,0.377,0.727,So
+Malique Ewin,Arkansas,SEC,PF,6-10,240,9.4,4.7,0.8,0.6,1.0,1.1,18.0,25,0.624,0.667,0.71,Sr
+Meleek Thomas,Arkansas,SEC,SG,6-5,185,15.0,3.7,2.7,1.5,0.1,0.9,28.2,25,0.421,0.385,0.826,Fr
+Nick Pringle,Arkansas,SEC,PF,6-10,230,5.2,4.4,0.7,0.4,0.5,0.9,20.2,25,0.712,0.0,0.625,Sr
+Trevon Brazile,Arkansas,SEC,PF,6-10,230,12.8,7.2,1.5,1.6,1.7,1.2,30.0,24,0.535,0.367,0.735,Sr
+Abdul Bashir,Auburn,SEC,SG,6-7,165,2.0,0.5,0.5,0.2,0.0,0.5,8.8,6,0.267,0.154,1.0,Jr
+Elyjah Freeman,Auburn,SEC,SG,6-8,185,9.2,4.8,1.2,1.2,0.5,1.2,25.2,25,0.448,0.328,0.701,So
+Emeka Opurum,Auburn,SEC,C,7-0,205,3.8,2.5,0.2,0.3,1.0,0.0,9.5,6,0.769,0.0,0.5,So
+Filip Jović,Auburn,SEC,PF,6-8,225,6.2,4.2,0.3,0.5,0.4,0.6,17.6,24,0.64,0.0,0.557,Fr
+Kaden Magwood,Auburn,SEC,PG,6-2,175,3.3,1.1,1.9,0.5,0.1,0.7,10.5,15,0.377,0.28,1.0,Fr
+KeShawn Murphy,Auburn,SEC,PF,6-10,230,11.0,7.0,1.2,0.9,0.9,0.7,24.1,23,0.573,0.344,0.73,Sr
+Kevin Overton,Auburn,SEC,SG,6-5,200,12.2,3.3,1.1,1.3,0.1,1.0,30.1,25,0.406,0.351,0.869,Jr
+Keyshawn Hall,Auburn,SEC,PF,6-7,225,20.7,6.8,2.7,0.9,0.8,2.4,33.0,23,0.455,0.406,0.854,Sr
+Sebastian Williams-Adams,Auburn,SEC,PF,6-8,230,7.6,3.5,1.7,1.3,0.8,1.2,28.0,25,0.54,0.28,0.495,Fr
+Tahaad Pettiford,Auburn,SEC,PG,6-1,170,14.7,2.9,3.6,0.8,0.6,2.2,31.8,25,0.385,0.278,0.843,So
+AJ Dybantsa,BYU,Big 12,PF,6-9,200,24.4,6.6,3.8,1.2,0.4,2.9,33.2,25,0.536,0.359,0.751,Fr
+Abdullah Ahmed,BYU,Big 12,C,6-10,220,1.9,3.8,0.6,0.2,2.0,0.5,14.0,12,0.563,0.0,0.5,So
+Dawson Baker,BYU,Big 12,SG,6-4,190,7.5,1.7,0.5,0.5,0.0,0.8,19.8,6,0.452,0.474,0.889,Sr
+Keba Keita,BYU,Big 12,PF,6-8,231,6.4,7.1,0.3,1.0,1.8,0.7,21.3,23,0.639,0.0,0.545,Sr
+Kennard Davis Jr.,BYU,Big 12,SF,6-6,215,7.2,2.7,1.3,1.2,0.1,0.8,28.3,22,0.365,0.288,0.765,Jr
+Khadim Mboup,BYU,Big 12,PF,6-9,200,2.3,5.0,0.5,0.6,0.7,0.7,15.1,24,0.444,0.222,0.333,Fr
+Mihailo Bošković,BYU,Big 12,PF,6-10,200,3.3,2.0,0.8,0.2,0.5,0.6,12.3,24,0.453,0.333,0.75,Sr
+Nate Pickens,BYU,Big 12,SG,6-3,200,9.8,3.5,2.1,0.8,0.4,1.5,27.3,33,0.395,0.392,0.759,Sr
+Richie Saunders,BYU,Big 12,SG,6-5,200,18.0,5.8,2.1,1.7,0.3,1.6,31.4,25,0.489,0.376,0.817,Sr
+Robert Wright III,BYU,Big 12,PG,6-1,183,18.7,3.7,4.9,1.2,0.0,2.3,34.4,25,0.488,0.461,0.802,So
+Tyler Mrus,BYU,Big 12,PF,6-7,205,2.2,1.0,0.3,0.2,0.0,0.2,10.1,21,0.326,0.31,0.857,Jr
+Caden Powell,Baylor,Big 12,C,6-9,224,6.7,6.6,1.3,0.5,1.1,1.2,23.5,25,0.64,0.0,0.654,Sr
+Cameron Carr,Baylor,Big 12,SG,6-5,175,19.2,5.8,2.8,0.8,1.4,2.3,33.1,25,0.509,0.4,0.777,So
+Dan Skillings Jr.,Baylor,Big 12,SG,6-6,210,10.2,6.5,2.4,1.1,0.2,1.6,27.1,20,0.447,0.298,0.673,Sr
+Isaac Williams IV,Baylor,Big 12,PG,6-1,192,9.8,2.2,2.8,0.7,0.6,1.5,23.3,25,0.563,0.471,0.676,So
+James Nnaji,Baylor,Big 12,C,7-0,250,1.7,2.8,0.2,0.2,0.4,0.5,10.3,12,0.778,0.0,0.6,Fr
+Juslin Bodo Bodo,Baylor,Big 12,C,6-11,231,5.3,8.4,0.2,0.6,1.4,0.7,21.7,35,0.643,0.0,0.534,Jr
+Michael Rataj,Baylor,Big 12,SG,6-8,230,8.2,5.4,2.2,0.6,0.4,1.5,26.5,25,0.425,0.222,0.697,Sr
+Obi Agbim,Baylor,Big 12,SG,6-3,183,11.1,2.4,3.2,0.8,0.1,1.1,33.0,24,0.374,0.37,0.882,Sr
+Tounde Yessoufou,Baylor,Big 12,SG,6-5,215,18.4,5.7,1.7,2.1,0.6,2.0,31.8,25,0.479,0.319,0.786,Fr
+Aidan Shaw,Boston College,ACC,SG,6-9,210,3.9,6.2,0.7,0.5,1.2,0.9,25.5,25,0.458,0.077,0.583,Sr
+Boden Kapke,Boston College,ACC,PF,6-11,255,9.8,5.8,0.8,0.4,0.4,1.3,26.0,25,0.472,0.303,0.702,Jr
+Caleb Steger,Boston College,ACC,SG,6-5,180,3.4,1.2,0.2,0.2,0.1,0.5,11.3,25,0.352,0.321,0.667,Fr
+Chase Forte,Boston College,ACC,SG,6-4,190,5.6,2.0,2.6,1.0,0.3,1.4,21.2,25,0.338,0.242,0.59,Sr
+Donald Hand Jr.,Boston College,ACC,SG,6-5,210,13.8,5.0,1.4,0.5,0.1,1.8,33.2,24,0.336,0.233,0.713,Jr
+Fred Payne,Boston College,ACC,PG,6-1,185,15.0,3.8,2.8,0.9,0.2,1.5,34.3,25,0.405,0.323,0.772,So
+Jayden Hastings,Boston College,ACC,PF,6-9,240,6.6,5.8,0.7,0.6,1.7,1.0,22.2,25,0.606,0.0,0.493,So
+Luka Toews,Boston College,ACC,PG,6-1,190,6.7,1.1,2.0,0.4,0.2,1.1,20.2,23,0.465,0.45,0.6,So
+Marko Radunovic,Boston College,ACC,SG,6-6,205,2.2,1.8,0.2,0.1,0.1,0.8,9.2,18,0.25,0.231,0.7,Fr
+Azavier Robinson,Butler,Big East,PG,6-2,195,6.1,1.9,2.5,1.5,0.3,1.9,18.3,22,0.47,0.433,0.711,Fr
+Drayton Jones,Butler,Big East,C,6-11,250,6.9,4.7,1.2,0.5,0.9,0.6,19.7,26,0.596,0.0,0.726,Jr
+Efeosa Oliogu-Elabor,Butler,Big East,SF,6-6,220,3.8,2.1,1.8,0.6,0.2,1.5,14.3,19,0.329,0.143,0.568,Fr
+Evan Haywood,Butler,Big East,SG,6-4,200,7.5,1.9,1.3,0.5,0.1,0.4,19.7,26,0.367,0.37,0.75,So
+Finley Bizjack,Butler,Big East,SG,6-4,190,17.4,2.1,2.4,0.8,0.1,1.6,33.2,25,0.442,0.364,0.856,Jr
+Jack McCaffery,Butler,Big East,PF,6-9,215,2.8,1.6,0.4,0.2,0.2,0.4,9.6,9,0.4,0.214,0.75,Fr
+Jalen Jackson,Butler,Big East,PG,6-2,200,9.5,3.5,3.8,1.3,0.2,3.0,22.5,6,0.512,0.4,0.579,Sr
+Jamie Kaiser Jr.,Butler,Big East,SG,6-6,205,9.6,4.3,1.0,1.3,0.1,0.7,28.3,24,0.447,0.344,0.722,So
+Michael Ajayi,Butler,Big East,PF,6-7,235,15.7,11.3,3.2,1.2,1.0,2.7,33.5,26,0.445,0.268,0.645,Sr
+Yame Butler,Butler,Big East,SG,6-5,210,4.1,1.3,1.5,0.4,0.2,0.7,13.6,25,0.435,0.286,0.704,Sr
+Yohan Traore,Butler,Big East,PF,6-11,240,7.3,3.0,0.7,0.3,0.3,0.6,19.1,26,0.537,0.222,0.652,Sr
+Baba Miller,Cincinnati,Big 12,PF,6-11,225,13.7,10.4,3.2,0.9,1.4,2.0,31.3,24,0.528,0.146,0.664,Sr
+Day Day Thomas,Cincinnati,Big 12,PG,6-1,190,11.1,3.2,3.7,0.9,0.5,1.8,29.4,26,0.379,0.396,0.907,Sr
+Halvine Dzellat,Cincinnati,Big 12,C,6-10,240,2.3,2.1,0.1,0.2,0.1,0.4,8.8,21,0.543,0.0,0.688,So
+Jalen Celestine,Cincinnati,Big 12,SG,6-7,220,7.1,3.0,1.2,0.8,0.2,0.6,21.7,25,0.391,0.375,0.611,Sr
+Jalen Haynes,Cincinnati,Big 12,PF,6-8,250,14.1,6.9,1.4,0.8,0.6,2.5,25.7,36,0.554,0.176,0.604,Sr
+Jizzle James,Cincinnati,Big 12,SG,6-3,205,11.4,2.4,2.3,0.7,0.1,1.9,30.2,16,0.438,0.438,0.778,Jr
+Jordi Rodriguez,Cincinnati,Big 12,SG,6-6,195,2.3,1.1,0.5,0.2,0.0,0.3,8.1,15,0.286,0.276,0.6,Fr
+Kerr Kriisa,Cincinnati,Big 12,SG,6-3,185,5.8,1.3,3.0,0.4,0.1,1.3,20.9,19,0.333,0.32,0.75,Sr
+Keyshuan Tillery,Cincinnati,Big 12,PG,6-0,190,3.3,1.1,1.4,0.5,0.1,1.2,10.5,24,0.403,0.344,0.7,Fr
+Moustapha Thiam,Cincinnati,Big 12,C,7-2,250,11.2,6.2,0.5,0.9,1.6,1.4,25.5,24,0.539,0.207,0.618,So
+Sencire Harris,Cincinnati,Big 12,SG,6-4,180,6.7,2.9,1.5,1.2,0.2,0.9,18.7,24,0.386,0.172,0.632,Jr
+Shon Abaev,Cincinnati,Big 12,SG,6-8,210,8.0,3.0,1.2,0.4,0.2,1.4,17.7,20,0.329,0.247,0.649,Fr
+Tyler McKinley,Cincinnati,Big 12,PF,6-9,245,2.0,2.5,0.7,0.4,0.2,0.5,13.5,21,0.541,0.0,0.222,Fr
+Ace Buckner,Clemson,ACC,SG,6-3,170,7.8,2.5,1.6,0.7,0.1,1.0,17.5,26,0.453,0.29,0.82,Fr
+Butta Johnson,Clemson,ACC,SG,6-4,180,5.3,2.1,0.8,0.5,0.1,0.4,18.6,26,0.378,0.359,0.833,Sr
+Carter Welling,Clemson,ACC,PF,6-10,225,10.5,5.7,1.3,0.8,0.7,1.4,21.3,26,0.492,0.261,0.703,Jr
+Chase Thompson,Clemson,ACC,PF,6-8,215,2.0,1.1,0.3,0.2,0.1,0.3,8.8,26,0.5,0.368,0.615,Fr
+Dillon Hunter,Clemson,ACC,SG,6-3,192,7.7,4.0,3.0,1.0,0.0,1.2,28.5,26,0.442,0.378,0.75,Sr
+Jake Wahlin,Clemson,ACC,PF,6-10,212,5.7,4.0,0.7,0.3,0.3,0.6,20.9,26,0.431,0.375,0.714,Jr
+Jestin Porter,Clemson,ACC,PG,6-1,180,10.0,1.9,1.3,1.3,0.2,0.8,27.7,26,0.361,0.338,0.804,Sr
+Nick Davidson,Clemson,ACC,PF,6-10,238,9.5,4.0,1.2,0.5,0.4,1.2,22.1,26,0.54,0.382,0.704,Sr
+RJ Godfrey,Clemson,ACC,PF,6-8,230,11.6,5.2,1.5,0.7,0.5,1.5,24.4,26,0.636,0.143,0.647,Sr
+Zac Foster,Clemson,ACC,SG,6-4,180,6.9,2.8,2.5,0.4,0.3,1.3,18.6,12,0.31,0.277,0.818,Fr
+Alon Michaeli,Colorado,Big 12,PF,6-9,229,7.5,4.2,1.0,0.5,0.3,1.0,18.0,24,0.406,0.288,0.682,Fr
+Bangot Dak,Colorado,Big 12,PF,7-0,203,10.5,6.5,1.6,0.7,1.3,1.2,25.5,26,0.47,0.233,0.724,Jr
+Barrington Hargress,Colorado,Big 12,PG,6-1,190,14.1,1.8,4.3,0.8,0.0,1.2,31.7,26,0.544,0.5,0.789,Jr
+Elijah Malone,Colorado,Big 12,C,6-10,270,4.2,2.9,0.8,0.4,0.4,0.8,13.6,25,0.524,0.375,0.773,Sr
+Fawaz Ifaola,Colorado,Big 12,C,7-0,245,1.0,2.4,0.4,0.4,0.4,0.2,8.6,14,1.0,0.0,0.0,Fr
+Felix Kossaras,Colorado,Big 12,SG,6-6,192,4.7,1.6,0.5,0.6,0.3,0.5,17.8,24,0.513,0.378,0.682,So
+Isaiah Johnson,Colorado,Big 12,PG,6-1,170,16.5,2.7,2.6,1.0,0.0,1.3,29.7,26,0.49,0.381,0.811,Fr
+Jalin Holland,Colorado,Big 12,SG,6-5,200,4.5,2.4,0.9,0.7,0.3,0.8,15.8,24,0.398,0.257,0.583,Fr
+Jon Mani,Colorado,Big 12,SG,6-7,190,2.9,1.6,0.5,0.5,0.2,0.7,13.9,30,0.33,0.306,0.471,So
+Josiah Sanders,Colorado,Big 12,SG,6-5,210,4.2,2.5,1.5,0.5,0.0,0.8,16.5,26,0.448,0.091,0.5,Fr
+Sebastian Rancik,Colorado,Big 12,PF,6-11,220,12.5,5.5,2.0,0.9,0.5,1.7,28.3,26,0.402,0.34,0.856,So
+Austin Swartz,Creighton,Big East,SG,6-4,205,11.5,2.8,1.5,0.7,0.2,1.3,22.1,24,0.455,0.393,0.643,So
+Blake Harper,Creighton,Big East,SG,6-7,220,8.6,4.2,1.4,0.6,0.1,1.3,19.8,26,0.455,0.354,0.779,So
+Fedor Zugic,Creighton,Big East,SG,6-6,215,4.9,1.3,1.0,0.3,0.0,0.5,14.1,26,0.429,0.343,0.84,Jr
+Hudson Greer,Creighton,Big East,SG,6-7,215,5.2,2.3,0.4,0.5,0.3,0.9,13.6,14,0.45,0.429,0.667,Fr
+Isaac Traudt,Creighton,Big East,PF,6-10,235,6.8,2.5,0.6,0.1,0.0,0.5,18.7,26,0.393,0.376,0.833,Jr
+Jasen Green,Creighton,Big East,PF,6-8,235,10.6,5.4,2.3,0.8,0.7,1.5,27.8,25,0.568,0.341,0.661,Jr
+Josh Dix,Creighton,Big East,SG,6-6,205,12.0,3.6,2.7,0.9,0.2,1.0,32.7,26,0.414,0.313,0.867,Sr
+Kerem Konan,Creighton,Big East,PF,6-9,235,2.6,1.9,0.4,0.2,0.4,0.4,8.5,22,0.6,0.0,0.625,Fr
+Nik Graves,Creighton,Big East,PG,6-2,190,10.0,3.2,3.8,0.9,0.1,1.6,25.8,26,0.421,0.32,0.797,Sr
+Owen Freeman,Creighton,Big East,PF,6-10,240,5.3,4.2,0.8,0.6,0.9,0.7,12.0,23,0.624,0.0,0.615,Jr
+Ty Davis,Creighton,Big East,SG,6-4,190,1.5,1.7,1.2,0.4,0.0,1.0,12.4,25,0.344,0.211,0.8,So
+Amsal Delalić,DePaul,Big East,SG,6-8,215,3.8,2.0,0.7,0.4,0.0,0.9,13.3,21,0.462,0.353,0.5,So
+Brandon Maclin,DePaul,Big East,SG,6-3,215,9.7,4.5,2.6,1.3,0.3,1.5,25.5,22,0.443,0.273,0.685,Sr
+CJ Gunn,DePaul,Big East,SG,6-7,200,13.8,3.6,2.0,1.1,0.8,2.1,27.8,25,0.423,0.346,0.746,Sr
+Fabián Flores,DePaul,Big East,C,7-2,250,3.1,3.1,0.4,0.4,0.5,0.4,11.5,21,0.703,0.0,0.667,Fr
+Jeremy Lorenz,DePaul,Big East,PF,6-8,230,2.2,1.8,1.0,0.7,0.1,0.9,10.4,9,0.6,0.0,0.5,Jr
+Kaleb Banks,DePaul,Big East,PF,6-8,215,6.1,2.8,0.5,0.3,0.3,0.7,17.0,25,0.44,0.358,0.755,Sr
+Kruz McClure,DePaul,Big East,SG,6-6,185,5.4,1.5,1.6,0.7,0.1,1.5,17.5,21,0.337,0.3,0.733,Fr
+Layden Blocker,DePaul,Big East,PG,6-2,195,11.8,2.5,3.5,1.7,0.4,2.2,29.6,25,0.394,0.338,0.837,Jr
+NJ Benson,DePaul,Big East,PF,6-8,235,10.5,7.1,1.2,0.2,0.8,1.2,24.6,25,0.62,0.0,0.5,Sr
+RJ Smith,DePaul,Big East,SG,6-3,195,7.5,2.6,2.6,0.6,0.3,1.2,28.9,25,0.39,0.337,0.75,Jr
+Théo Pierre-Justin,DePaul,Big East,PF,6-10,215,3.8,2.6,1.0,0.4,0.1,0.5,15.3,23,0.395,0.356,0.611,So
+Caleb Foster,Duke,ACC,SG,6-5,205,8.7,3.7,2.5,0.3,0.1,1.2,26.4,25,0.458,0.385,0.553,Jr
+Cameron Boozer,Duke,ACC,PF,6-9,250,22.8,9.9,4.0,1.8,0.6,2.3,33.1,25,0.575,0.388,0.766,Fr
+Cayden Boozer,Duke,ACC,SG,6-4,205,6.4,2.1,2.8,0.8,0.1,1.3,20.5,25,0.491,0.3,0.755,Fr
+Dame Sarr,Duke,ACC,SG,6-8,190,5.8,3.4,1.0,1.0,0.3,1.2,21.0,25,0.387,0.313,0.548,Fr
+Darren Harris,Duke,ACC,SG,6-5,195,3.3,0.7,0.5,0.3,0.0,0.1,9.6,24,0.377,0.333,0.692,So
+Isaiah Evans,Duke,ACC,SG,6-6,180,14.4,3.1,1.2,0.9,0.8,1.1,27.8,25,0.422,0.356,0.887,So
+Maliq Brown,Duke,ACC,PF,6-9,225,4.8,4.5,1.8,1.7,0.4,1.1,19.3,25,0.625,0.158,0.5,Sr
+Nikolas Khamenia,Duke,ACC,SG,6-8,215,5.3,2.9,1.1,0.6,0.0,1.0,18.2,25,0.444,0.324,0.697,Fr
+Patrick Ngongba II,Duke,ACC,C,6-11,250,10.5,6.2,2.0,0.7,1.3,1.4,22.5,24,0.608,0.269,0.683,So
+AJ Brown,Florida,SEC,SG,6-4,210,13.2,3.2,1.1,1.3,0.1,1.2,26.6,29,0.471,0.388,0.82,Jr
+Alex Condon,Florida,SEC,PF,6-11,230,13.3,8.0,3.5,0.7,1.5,2.4,30.4,24,0.511,0.133,0.643,Jr
+Boogie Fland,Florida,SEC,SG,6-3,185,11.3,2.5,3.7,2.0,0.1,1.7,30.2,25,0.417,0.181,0.714,So
+Isaiah Brown,Florida,SEC,SG,6-4,210,5.1,2.2,0.6,0.3,0.3,0.3,11.6,23,0.471,0.364,0.774,So
+Micah Handlogten,Florida,SEC,C,7-1,260,4.4,6.0,0.6,0.4,0.9,0.8,14.8,24,0.658,0.0,0.391,Sr
+Rueben Chinyelu,Florida,SEC,C,6-10,265,11.7,11.8,0.6,0.7,1.1,1.5,24.4,25,0.607,0.0,0.685,Jr
+Thomas Haugh,Florida,SEC,PF,6-9,215,17.5,6.3,2.1,1.0,0.9,1.6,33.9,25,0.467,0.338,0.741,Jr
+Urban Klavzar,Florida,SEC,PG,6-1,195,10.1,1.4,1.4,0.3,0.1,1.0,21.5,25,0.433,0.391,0.9,Jr
+Xaivian Lee,Florida,SEC,SG,6-4,180,11.4,3.8,3.5,1.2,0.2,1.4,26.8,25,0.389,0.27,0.803,Sr
+AJ Swinton,Florida State,ACC,SF,6-6,220,4.2,1.7,0.4,1.0,0.5,0.4,15.3,21,0.386,0.3,0.588,So
+Alex Steen,Florida State,ACC,PF,6-9,230,7.0,5.7,0.8,0.6,0.7,1.0,18.5,24,0.598,0.0,0.679,Sr
+Cam Miles,Florida State,ACC,PG,6-2,170,5.5,1.1,1.8,0.8,0.0,1.0,14.2,22,0.35,0.203,0.688,Fr
+Chauncey Wiggins,Florida State,ACC,PF,6-10,225,12.7,3.9,0.9,0.2,0.1,0.8,27.5,24,0.451,0.345,0.86,Sr
+Kobe MaGee,Florida State,ACC,SG,6-5,207,9.0,3.2,1.0,1.0,0.0,0.8,21.2,25,0.384,0.317,0.769,Sr
+Lajae Jones,Florida State,ACC,SG,6-7,220,11.9,5.9,1.0,1.1,1.0,1.2,28.3,25,0.414,0.317,0.747,Sr
+Martin Somerville,Florida State,ACC,SG,6-3,185,9.0,3.2,2.2,1.5,0.0,1.0,25.8,25,0.367,0.361,0.82,So
+Robert McCray V,Florida State,ACC,SG,6-4,188,14.7,3.6,6.0,1.2,0.5,3.8,28.0,25,0.445,0.315,0.698,Sr
+Thomas Bassong,Florida State,ACC,PF,6-8,203,5.5,3.4,0.4,0.6,0.3,0.8,18.0,25,0.45,0.282,0.563,Fr
+Caleb Williams,Georgetown,Big East,PF,6-7,227,9.3,5.4,1.5,0.5,0.3,0.8,30.4,24,0.464,0.4,0.8,So
+DeShawn Harris-Smith,Georgetown,Big East,SG,6-5,224,5.2,2.5,0.5,0.7,0.0,0.7,16.7,6,0.6,0.0,0.7,Jr
+Isaiah Abraham,Georgetown,Big East,PF,6-7,205,5.5,2.7,0.7,0.5,0.3,0.4,19.8,24,0.414,0.383,0.615,So
+Jayden Fort,Georgetown,Big East,PF,6-9,216,3.7,3.4,0.6,0.1,0.7,0.5,14.3,25,0.531,0.2,0.622,So
+Jeremiah Williams,Georgetown,Big East,SG,6-4,200,4.4,2.0,2.5,0.9,0.4,1.4,18.5,25,0.377,0.4,0.622,Sr
+Julius Halaifonua,Georgetown,Big East,C,7-0,259,9.4,4.5,1.3,0.3,0.7,0.8,20.4,23,0.577,0.278,0.74,So
+KJ Lewis,Georgetown,Big East,SG,6-4,210,15.5,5.4,2.7,2.3,0.5,2.2,30.4,25,0.41,0.326,0.754,Jr
+Kayvaun Mulready,Georgetown,Big East,SG,6-4,219,3.8,2.0,0.5,0.9,0.2,0.3,12.5,23,0.39,0.327,0.688,So
+Langston Love,Georgetown,Big East,SG,6-5,210,3.4,1.8,0.5,0.2,0.0,0.4,12.7,19,0.385,0.267,0.8,Sr
+Malik Mack,Georgetown,Big East,PG,6-2,175,14.2,3.0,4.2,0.8,0.1,1.9,31.5,25,0.376,0.31,0.854,Jr
+Vince Iwuchukwu,Georgetown,Big East,C,7-1,257,11.7,6.1,0.5,0.9,1.1,1.3,24.1,15,0.545,0.3,0.754,Sr
+Blue Cain,Georgia,SEC,SG,6-5,195,13.6,5.3,2.4,1.4,0.2,1.0,27.7,25,0.464,0.279,0.894,Jr
+Dylan James,Georgia,SEC,PF,6-9,215,4.6,4.1,0.5,0.8,0.6,1.1,15.7,25,0.423,0.0,0.778,Jr
+Jake Wilkins,Georgia,SEC,PF,6-9,185,5.5,2.0,0.4,0.6,0.5,0.6,11.5,24,0.468,0.217,0.773,Fr
+Jeremiah Wilkinson,Georgia,SEC,PG,6-1,185,17.1,2.0,1.9,1.8,0.3,1.3,25.5,23,0.419,0.335,0.776,So
+Jordan Ross,Georgia,SEC,SG,6-3,195,7.1,2.8,2.4,0.6,0.0,0.9,21.3,25,0.43,0.308,0.778,Jr
+Justin Abson,Georgia,SEC,PF,6-9,250,3.0,3.9,0.5,0.4,1.8,0.5,11.8,24,0.605,0.0,0.633,Sr
+Justin Bailey,Georgia,SEC,SG,6-3,195,4.7,1.6,0.7,0.5,0.0,0.5,13.9,24,0.375,0.348,0.762,Sr
+Kanon Catchings,Georgia,SEC,PF,6-9,220,10.8,4.9,1.4,0.7,0.4,1.3,23.0,24,0.421,0.346,0.642,So
+Kareem Stagg,Georgia,SEC,PF,6-8,230,4.3,2.3,0.5,0.3,0.4,0.7,11.0,25,0.522,0.25,0.795,Fr
+Marcus Millender,Georgia,SEC,PG,5-11,175,12.0,2.8,3.7,1.0,0.0,1.9,25.1,25,0.46,0.373,0.847,Jr
+Somtochukwu Cyril,Georgia,SEC,C,6-11,260,9.5,5.5,0.4,0.6,2.5,1.1,21.0,25,0.748,0.0,0.564,So
+Akai Fleming,Georgia Tech,ACC,SG,6-4,184,9.9,3.1,1.3,0.6,0.2,1.7,24.7,25,0.368,0.328,0.802,Fr
+Baye Ndongo,Georgia Tech,ACC,PF,6-9,240,12.5,8.3,2.4,0.8,1.1,2.2,27.2,22,0.568,0.417,0.722,Jr
+Chas Kelley III,Georgia Tech,ACC,SG,6-3,185,4.6,1.3,1.7,0.5,0.1,0.7,17.4,24,0.449,0.446,0.6,Sr
+Cole Kirouac,Georgia Tech,ACC,C,7-0,199,1.3,1.8,0.3,0.2,0.2,0.2,9.5,18,0.545,0.0,0.0,Fr
+Davi Remagen,Georgia Tech,ACC,SG,6-3,193,1.6,1.2,0.7,0.9,0.1,0.5,10.5,11,0.318,0.0,0.571,Fr
+Eric Chatfield Jr.,Georgia Tech,ACC,PG,5-11,160,2.5,0.8,1.4,0.6,0.0,0.7,12.2,13,0.361,0.273,0.0,Fr
+Jaeden Mustaf,Georgia Tech,ACC,SG,6-6,210,9.0,4.1,2.3,0.5,0.2,1.6,26.5,24,0.425,0.439,0.662,So
+Kam Craft,Georgia Tech,ACC,SG,6-6,205,7.6,2.3,0.9,0.3,0.3,0.4,22.4,25,0.401,0.387,0.786,Jr
+Kowacie Reeves Jr.,Georgia Tech,ACC,PF,6-7,205,15.2,3.9,1.3,1.0,0.6,1.3,30.1,24,0.458,0.38,0.771,Sr
+Lamar Washington,Georgia Tech,ACC,SG,6-4,200,10.2,5.1,5.3,1.5,0.3,2.7,29.0,24,0.386,0.302,0.744,Sr
+Mouhamed Sylla,Georgia Tech,ACC,C,6-10,240,9.6,7.2,0.6,0.8,1.2,1.4,21.4,16,0.579,0.25,0.429,Fr
+Peyton Marshall,Georgia Tech,ACC,C,7-0,300,3.5,3.1,0.9,0.2,0.9,1.6,11.1,17,0.538,0.0,0.586,So
+Chase McCarty,Houston,Big 12,SF,6-5,215,3.2,2.1,0.2,0.3,0.3,0.3,10.2,23,0.348,0.291,0.846,Fr
+Chris Cenac Jr.,Houston,Big 12,PF,6-11,240,9.6,7.4,0.9,0.8,0.5,1.0,24.6,25,0.508,0.371,0.588,Fr
+Emanuel Sharp,Houston,Big 12,SG,6-3,205,16.6,3.1,2.0,1.2,0.1,0.9,29.4,25,0.432,0.384,0.87,Sr
+Isiah Harwell,Houston,Big 12,SG,6-6,220,4.7,2.7,0.7,0.8,0.3,0.3,16.9,23,0.291,0.276,0.655,Fr
+Joseph Tugler,Houston,Big 12,PF,6-8,230,7.8,5.4,1.1,1.5,1.4,1.2,22.3,25,0.59,1.0,0.674,Jr
+Kalifa Sakho,Houston,Big 12,PF,6-11,230,2.4,2.9,0.1,0.3,0.5,0.5,13.0,22,0.833,0.0,0.632,Sr
+Kingston Flemings,Houston,Big 12,SG,6-4,190,16.4,3.6,5.3,1.7,0.4,1.9,31.1,25,0.492,0.365,0.84,Fr
+Mercy Miller,Houston,Big 12,SG,6-4,200,4.4,1.3,0.5,0.5,0.2,0.1,9.9,24,0.506,0.346,0.737,So
+Milos Uzan,Houston,Big 12,SG,6-4,195,11.2,2.6,4.0,1.0,0.1,1.4,32.7,25,0.383,0.329,0.795,Sr
+Ramon Walker Jr.,Houston,Big 12,SG,6-5,215,2.8,2.3,0.6,0.1,0.1,0.3,12.3,23,0.352,0.273,0.783,Sr
+Andrej Stojakovic,Illinois,Big Ten,SG,6-7,205,13.7,4.6,1.1,0.3,0.6,1.4,27.7,23,0.492,0.246,0.841,Jr
+Ben Humrichous,Illinois,Big Ten,PF,6-9,225,5.8,4.1,0.8,0.4,0.7,0.2,22.1,26,0.371,0.333,0.773,Sr
+David Mirkovic,Illinois,Big Ten,PF,6-9,255,13.0,8.0,2.5,0.5,0.3,1.9,29.1,26,0.479,0.39,0.795,Fr
+Jake Davis,Illinois,Big Ten,SF,6-6,205,5.4,2.0,0.8,0.3,0.2,0.2,19.6,26,0.413,0.392,0.813,Jr
+Keaton Wagler,Illinois,Big Ten,SG,6-6,180,18.5,5.0,4.3,0.8,0.2,1.7,33.2,26,0.464,0.432,0.799,Fr
+Kylan Boswell,Illinois,Big Ten,PG,6-2,205,14.0,4.3,3.3,0.7,0.0,1.3,31.9,19,0.471,0.309,0.818,Sr
+Tomislav Ivisic,Illinois,Big Ten,C,7-1,255,10.5,5.7,1.6,0.3,0.6,1.4,25.3,23,0.497,0.345,0.645,Jr
+Ty Rodgers,Illinois,Big Ten,SG,6-6,210,6.2,5.3,2.0,0.4,0.4,1.3,22.7,38,0.527,0.0,0.585,Jr
+Zvonimir Ivisic,Illinois,Big Ten,C,7-2,245,7.0,5.2,0.3,0.3,2.2,0.7,17.7,26,0.52,0.329,0.632,Jr
+Conor Enright,Indiana,Big Ten,PG,6-1,180,4.7,3.2,4.8,0.7,0.0,1.2,30.4,26,0.404,0.349,0.8,Sr
+Jasai Miles,Indiana,Big Ten,SG,6-6,210,1.5,1.8,0.5,0.1,0.1,0.5,8.7,20,0.324,0.211,0.4,Jr
+Jason Drake,Indiana,Big Ten,PG,6-1,200,11.1,3.0,3.1,0.7,0.0,2.0,26.1,33,0.428,0.396,0.865,Jr
+Josh Harris,Indiana,Big Ten,PF,6-8,225,13.4,7.1,0.6,0.7,0.5,1.0,22.5,30,0.557,0.333,0.695,So
+Lamar Wilkerson,Indiana,Big Ten,SG,6-6,205,21.2,3.7,2.5,1.1,0.2,1.5,33.6,26,0.466,0.384,0.88,Sr
+Nick Dorn,Indiana,Big Ten,SG,6-7,225,8.8,2.4,0.3,0.3,0.1,0.8,22.8,24,0.416,0.386,0.881,Jr
+Reed Bailey,Indiana,Big Ten,PF,6-10,230,9.0,3.7,1.2,0.2,0.3,0.8,19.3,26,0.559,0.25,0.777,Sr
+Sam Alexis,Indiana,Big Ten,PF,6-9,240,8.1,4.8,1.2,0.3,1.3,1.0,20.6,26,0.699,0.25,0.804,Sr
+Tayton Conerway,Indiana,Big Ten,SG,6-3,190,10.1,3.0,3.7,1.2,0.2,2.2,23.1,23,0.532,0.281,0.738,Sr
+Trent Sisley,Indiana,Big Ten,PF,6-8,225,4.8,3.2,0.4,0.1,0.1,0.4,14.4,26,0.429,0.277,0.538,Fr
+Tucker DeVries,Indiana,Big Ten,PF,6-7,225,13.8,5.3,3.2,1.0,0.5,1.5,33.4,26,0.394,0.335,0.848,Sr
+Alvaro Folgueiras,Iowa,Big Ten,PF,6-10,230,8.2,3.8,2.0,0.8,0.3,1.1,20.6,25,0.493,0.36,0.692,Jr
+Bennett Stirtz,Iowa,Big Ten,SG,6-4,190,20.4,2.5,4.7,1.4,0.2,1.8,36.6,25,0.516,0.403,0.835,Sr
+Brendan Hausen,Iowa,Big Ten,SG,6-4,220,4.4,0.7,0.4,0.2,0.0,0.1,10.1,19,0.347,0.349,1.0,Sr
+Cam Manyawu,Iowa,Big Ten,PF,6-9,250,6.7,4.4,1.0,0.7,0.6,0.6,18.0,25,0.636,0.0,0.615,Jr
+Cooper Koch,Iowa,Big Ten,PF,6-8,220,6.7,3.2,1.1,0.7,0.2,0.5,26.0,25,0.45,0.376,0.75,Fr
+Isaia Howard,Iowa,Big Ten,SG,6-5,215,5.9,2.9,1.3,1.3,0.4,0.7,19.6,25,0.464,0.25,0.75,So
+Kael Combs,Iowa,Big Ten,SG,6-4,205,5.8,2.3,2.3,0.8,0.1,1.3,25.2,25,0.481,0.355,0.886,Jr
+Tate Sage,Iowa,Big Ten,SG,6-7,210,6.2,2.0,0.9,0.4,0.2,0.5,17.2,25,0.515,0.4,0.708,Fr
+Tavion Banks,Iowa,Big Ten,SG,6-7,215,10.9,4.6,1.2,1.0,0.2,1.6,22.3,25,0.526,0.467,0.8,Sr
+Trevin Jirak,Iowa,Big Ten,C,6-11,250,3.9,1.0,1.1,0.1,0.1,1.0,8.9,14,0.5,0.188,0.652,Fr
+Blake Buchanan,Iowa State,Big 12,PF,6-10,235,8.3,5.9,1.6,0.6,1.0,1.1,23.9,25,0.662,0.0,0.46,Jr
+Dominick Nelson,Iowa State,Big 12,SG,6-5,190,4.3,1.2,0.4,0.4,0.2,0.8,9.8,17,0.462,0.0,0.568,Sr
+Dominykas Pleta,Iowa State,Big 12,PF,6-11,240,4.4,2.3,0.5,0.3,0.3,0.9,10.6,23,0.695,0.0,0.613,Fr
+Jamarion Batemon,Iowa State,Big 12,SG,6-3,195,6.1,1.3,0.4,0.5,0.0,0.4,13.4,25,0.424,0.398,0.75,Fr
+Joshua Jefferson,Iowa State,Big 12,PF,6-9,240,16.7,7.6,5.2,1.5,0.9,2.7,31.5,25,0.488,0.394,0.692,Sr
+Killyan Toure,Iowa State,Big 12,SG,6-3,205,9.5,3.6,2.5,1.7,0.3,1.8,26.4,25,0.476,0.322,0.714,Fr
+Mason Williams,Iowa State,Big 12,SG,6-5,200,13.9,3.2,2.4,1.2,0.4,2.6,28.0,27,0.427,0.345,0.837,Jr
+Milan Momcilovic,Iowa State,Big 12,PF,6-8,225,18.4,3.3,1.0,0.9,0.2,0.9,29.7,25,0.54,0.516,0.9,Jr
+Nate Heise,Iowa State,Big 12,SG,6-5,212,5.1,3.8,1.6,0.8,0.1,0.7,24.8,25,0.432,0.286,0.684,Sr
+Tamin Lipsey,Iowa State,Big 12,PG,6-1,200,13.2,4.1,5.3,2.3,0.0,1.3,31.2,22,0.473,0.278,0.652,Sr
+Bryson Tiller,Kansas,Big 12,PF,6-11,240,9.0,6.0,1.0,0.4,1.4,1.8,26.5,25,0.483,0.304,0.692,Fr
+Darryn Peterson,Kansas,Big 12,SG,6-6,205,19.8,3.9,1.6,1.2,0.5,1.7,27.5,14,0.479,0.413,0.797,Fr
+Elmarko Jackson,Kansas,Big 12,SG,6-3,195,4.8,1.9,1.6,0.8,0.3,0.9,18.3,24,0.389,0.364,0.767,So
+Flory Bidunga,Kansas,Big 12,PF,6-10,235,14.8,9.1,1.6,0.7,2.8,1.5,31.5,25,0.67,0.0,0.671,So
+Jamari McDowell,Kansas,Big 12,SG,6-5,200,3.9,1.8,1.4,0.5,0.2,0.5,18.7,25,0.385,0.364,0.7,So
+Jayden Dawson,Kansas,Big 12,SG,6-5,205,2.1,0.8,0.7,0.5,0.1,0.1,9.8,20,0.311,0.265,1.0,Sr
+Kohl Rosario,Kansas,Big 12,SG,6-6,200,3.5,1.4,0.5,0.3,0.2,0.4,13.5,21,0.375,0.236,0.75,Fr
+Melvin Council Jr.,Kansas,Big 12,SG,6-4,180,14.1,4.8,5.1,0.9,0.4,1.6,34.5,25,0.411,0.355,0.776,Sr
+Tre White,Kansas,Big 12,SG,6-7,215,13.7,6.9,2.0,0.7,0.4,2.0,31.6,25,0.468,0.407,0.861,Sr
+Abdi Bashir Jr.,Kansas State,Big 12,SG,6-7,175,13.2,2.2,2.3,0.5,0.0,1.1,24.7,18,0.421,0.444,0.688,Jr
+Andrej Kostic,Kansas State,Big 12,SF,6-6,210,4.3,1.9,1.3,0.4,0.1,0.8,12.8,16,0.338,0.333,0.857,Fr
+C.J. Jones,Kansas State,Big 12,SG,6-5,195,3.3,1.8,1.3,0.5,0.1,0.8,16.2,24,0.295,0.224,0.867,Sr
+David Castillo,Kansas State,Big 12,PG,6-1,180,11.4,2.3,1.8,0.3,0.0,1.2,26.5,25,0.429,0.383,0.811,So
+Dorin Buca,Kansas State,Big 12,C,7-2,254,3.4,3.6,0.6,0.2,1.4,1.1,13.6,24,0.5,0.2,0.533,Jr
+Elias Rapieque,Kansas State,Big 12,PF,6-9,225,4.1,2.8,1.6,0.9,0.3,0.9,17.9,15,0.444,0.368,0.375,Jr
+Khamari McGriff,Kansas State,Big 12,PF,6-9,230,9.5,4.1,1.2,0.6,1.1,1.0,19.9,21,0.732,0.2,0.68,Sr
+Mobi Ikegwuruka,Kansas State,Big 12,SG,6-6,215,1.9,2.0,0.4,0.8,0.4,0.6,12.6,10,0.571,0.0,0.5,Jr
+Nate Johnson,Kansas State,Big 12,SG,6-3,215,11.1,4.8,4.4,2.0,0.3,1.9,31.8,25,0.427,0.383,0.851,Sr
+P.J. Haggerty,Kansas State,Big 12,SG,6-4,195,23.3,5.1,4.0,1.2,0.0,3.5,34.8,25,0.485,0.361,0.702,Jr
+Taj Manning,Kansas State,Big 12,PF,6-7,230,3.7,4.7,1.0,0.7,0.7,0.7,18.0,23,0.493,0.174,0.737,Jr
+Andrija Jelavic,Kentucky,SEC,PF,6-11,225,5.7,4.1,0.7,0.4,0.4,0.9,15.9,21,0.49,0.313,0.5,Fr
+Brandon Garrison,Kentucky,SEC,PF,6-10,245,4.4,3.9,1.2,0.4,0.6,1.0,15.9,25,0.554,0.167,0.667,Jr
+Collin Chandler,Kentucky,SEC,SG,6-5,205,9.7,3.0,2.2,1.3,0.3,0.9,24.8,25,0.431,0.427,0.822,So
+Denzel Aberdeen,Kentucky,SEC,SG,6-5,195,12.5,2.4,3.2,0.7,0.1,1.4,28.4,25,0.44,0.363,0.805,Sr
+Jaland Lowe,Kentucky,SEC,PG,6-1,170,8.0,2.1,2.4,0.7,0.2,0.9,18.6,9,0.358,0.208,0.704,Jr
+Jasper Johnson,Kentucky,SEC,SG,6-5,180,6.2,1.3,1.9,0.1,0.1,1.0,13.9,24,0.429,0.382,0.913,Fr
+Kam Williams,Kentucky,SEC,SG,6-8,205,6.9,2.5,1.0,0.6,0.4,0.6,20.0,19,0.449,0.348,0.95,So
+Malachi Moreno,Kentucky,SEC,C,7-0,250,8.5,6.4,1.7,0.6,1.6,1.0,22.2,25,0.591,0.0,0.685,Fr
+Mouhamed Dioubate,Kentucky,SEC,PF,6-7,220,8.4,5.4,1.0,1.1,1.1,0.8,21.2,20,0.522,0.105,0.639,Jr
+Otega Oweh,Kentucky,SEC,SG,6-4,220,17.0,4.4,2.5,1.8,0.3,1.8,30.8,25,0.474,0.333,0.716,Sr
+Reece Potter,Kentucky,SEC,PF,7-1,230,6.5,3.7,1.2,0.4,0.7,1.0,17.1,30,0.466,0.367,0.6,Jr
+Trent Noah,Kentucky,SEC,SF,6-5,220,3.6,2.3,0.5,0.6,0.2,0.3,11.7,20,0.408,0.385,0.842,So
+Dedan Thomas Jr.,LSU,SEC,PG,6-1,178,15.3,2.7,6.5,0.9,0.3,1.6,29.4,16,0.459,0.302,0.833,Jr
+Jalen Reece,LSU,SEC,PG,6-0,185,4.2,1.5,2.6,0.7,0.1,1.0,19.0,25,0.337,0.277,0.7,Fr
+Jalen Reed,LSU,SEC,PF,6-10,245,9.5,5.7,0.7,0.8,0.3,1.8,18.0,6,0.571,0.429,0.667,Jr
+Marquel Sutton,LSU,SEC,PF,6-8,225,13.5,7.8,0.6,0.6,0.3,0.9,31.1,25,0.455,0.274,0.817,Sr
+Max Mackinnon,LSU,SEC,SG,6-6,195,14.5,2.6,2.5,0.6,0.3,1.8,30.7,24,0.419,0.393,0.921,Sr
+Mike Nwoko,LSU,SEC,PF,6-10,261,13.1,5.5,0.6,0.5,0.9,1.7,20.8,25,0.639,0.0,0.722,Jr
+PJ Carter,LSU,SEC,SG,6-4,183,3.5,0.8,0.3,0.2,0.1,0.2,9.8,19,0.31,0.295,0.8,Sr
+Pablo Tamba,LSU,SEC,PF,6-7,206,7.6,7.0,1.4,1.1,0.5,1.1,27.8,25,0.612,0.4,0.62,Sr
+Rashad King,LSU,SEC,SG,6-6,217,5.6,2.2,1.3,0.7,0.3,0.9,18.1,25,0.375,0.257,0.818,Sr
+Robert Miller III,LSU,SEC,PF,6-10,230,6.0,3.7,0.7,0.8,1.0,1.2,19.2,25,0.675,0.0,0.697,So
+Adrian Wooley,Louisville,ACC,SG,6-4,200,8.3,3.9,1.6,0.8,0.1,1.0,21.6,25,0.438,0.325,0.84,So
+Aly Khalifa,Louisville,ACC,C,7-0,250,3.4,2.0,2.7,0.4,0.4,0.9,12.4,25,0.437,0.417,0.667,Sr
+Isaac McKneely,Louisville,ACC,SG,6-4,195,11.1,2.8,1.1,0.5,0.1,0.7,28.4,25,0.419,0.392,0.892,Sr
+J'Vonne Hadley,Louisville,ACC,SG,6-7,210,10.8,5.0,1.7,1.0,0.3,0.8,26.4,24,0.564,0.423,0.683,Sr
+Khani Rooths,Louisville,ACC,PF,6-10,215,6.6,5.2,1.2,0.7,0.6,0.8,18.0,21,0.462,0.196,0.681,So
+Kobe Rodgers,Louisville,ACC,SG,6-3,185,3.8,2.8,1.6,0.9,0.2,0.9,14.3,24,0.536,0.364,0.852,Sr
+Mikel Brown Jr.,Louisville,ACC,SG,6-5,190,17.9,3.3,5.1,1.2,0.1,3.0,29.0,17,0.405,0.336,0.83,Fr
+Ryan Conwell,Louisville,ACC,SG,6-4,215,18.7,5.0,2.8,1.2,0.2,1.9,29.9,24,0.409,0.36,0.827,Sr
+Sananda Fru,Louisville,ACC,PF,6-11,250,10.3,6.5,1.4,0.4,1.4,1.6,22.9,25,0.766,0.571,0.657,Jr
+Vangelis Zougris,Louisville,ACC,PF,6-8,240,1.8,2.4,0.7,0.4,0.2,0.8,8.4,17,0.455,0.0,0.667,Jr
+Adrien Stevens,Marquette,Big East,SG,6-4,210,7.5,2.3,1.6,1.2,0.1,1.0,25.0,26,0.447,0.398,0.789,Fr
+Ben Gold,Marquette,Big East,PF,6-11,235,8.3,5.4,0.8,0.7,0.4,0.6,27.1,25,0.408,0.256,0.667,Sr
+Caedin Hamilton,Marquette,Big East,PF,6-9,250,3.0,3.2,0.6,0.5,0.3,0.9,13.5,26,0.406,0.0,0.639,So
+Chase Ross,Marquette,Big East,SG,6-5,210,14.7,4.1,3.5,2.3,0.3,2.2,32.8,26,0.411,0.282,0.738,Sr
+Damarius Owens,Marquette,Big East,PF,6-7,205,4.6,2.6,0.7,0.6,0.2,0.7,14.5,24,0.42,0.293,0.694,So
+Michael Phillips II,Marquette,Big East,SF,6-6,195,2.3,1.5,0.2,0.2,0.4,0.4,8.1,22,0.306,0.395,0.357,Fr
+Nigel James Jr.,Marquette,Big East,PG,6-0,185,15.8,3.2,5.0,1.7,0.2,2.7,28.4,26,0.48,0.391,0.707,Fr
+Royce Parham,Marquette,Big East,PF,6-8,235,12.4,4.8,0.9,0.7,0.9,1.3,28.0,26,0.511,0.31,0.655,So
+Sean Jones,Marquette,Big East,PG,5-10,185,6.3,1.4,3.9,1.0,0.0,1.5,21.3,8,0.313,0.321,0.688,Jr
+Aleks Alston,Maryland,Big Ten,PF,6-10,204,1.6,2.0,0.4,0.2,0.2,0.4,9.4,21,0.375,0.25,0.625,Fr
+Andre Mills,Maryland,Big Ten,SG,6-4,205,9.8,3.8,1.4,0.5,0.3,1.4,25.2,25,0.404,0.32,0.692,Fr
+Collin Metcalf,Maryland,Big Ten,C,6-9,233,0.9,2.2,0.2,0.0,0.5,0.5,9.3,23,0.533,0.0,0.385,Sr
+Darius Adams,Maryland,Big Ten,SG,6-5,175,11.8,3.8,1.5,0.6,0.2,2.0,26.7,25,0.358,0.266,0.722,Fr
+David Coit,Maryland,Big Ten,PG,5-11,175,15.2,2.1,2.9,0.6,0.0,1.9,28.8,25,0.42,0.366,0.871,Sr
+Elijah Saunders,Maryland,Big Ten,PF,6-8,240,8.9,4.1,0.8,0.5,0.2,1.2,29.2,25,0.439,0.379,0.778,Sr
+George Turkson Jr.,Maryland,Big Ten,SG,6-7,220,1.3,2.2,0.3,0.0,0.3,0.4,13.1,16,0.261,0.0,0.45,Fr
+Isaiah Watts,Maryland,Big Ten,SG,6-3,170,4.3,2.0,0.8,0.9,0.3,0.9,18.8,24,0.324,0.266,0.611,Jr
+Myles Rice,Maryland,Big Ten,SG,6-3,185,5.6,2.1,1.3,0.9,0.0,1.4,16.5,17,0.366,0.344,0.926,Jr
+Pharrel Payne,Maryland,Big Ten,PF,6-9,250,17.5,7.2,1.4,0.4,1.1,2.7,26.9,10,0.624,0.0,0.719,Sr
+Solomon Washington,Maryland,Big Ten,PF,6-7,220,10.2,9.1,0.6,1.2,0.5,1.5,31.7,17,0.429,0.226,0.642,Sr
+Dante Allen,Miami,ACC,SG,6-4,220,6.7,3.0,2.4,1.1,0.1,0.9,23.1,20,0.421,0.302,0.583,Fr
+Ernest Udeh Jr.,Miami,ACC,C,6-11,266,7.0,9.5,0.4,1.0,1.3,0.6,25.9,23,0.73,0.0,0.484,Sr
+Malik Reneau,Miami,ACC,PF,6-9,238,20.1,6.6,2.2,0.9,0.8,2.6,28.4,25,0.565,0.364,0.775,Sr
+Marcus Allen,Miami,ACC,SG,6-7,231,5.3,3.1,1.6,0.3,0.0,0.3,19.0,8,0.424,0.385,0.692,So
+Noam Dovrat,Miami,ACC,SG,6-5,213,2.9,0.6,1.3,0.5,0.0,0.4,9.4,20,0.413,0.394,1.0,Jr
+Salih Altuntas,Miami,ACC,PF,6-10,274,2.0,2.3,0.2,0.3,0.5,0.4,9.0,25,0.647,0.0,0.375,Fr
+Shelton Henderson,Miami,ACC,SF,6-6,240,14.5,4.8,2.0,1.2,0.4,1.7,30.0,25,0.599,0.286,0.575,Fr
+Timotej Malovec,Miami,ACC,PF,6-8,214,5.0,1.7,1.0,0.4,0.2,0.8,17.0,25,0.364,0.354,0.684,Fr
+Tre Donaldson,Miami,ACC,SG,6-3,198,15.8,3.7,6.0,1.3,0.2,2.2,33.8,25,0.451,0.321,0.771,Sr
+Tru Washington,Miami,ACC,SG,6-4,204,11.9,4.0,1.7,1.8,0.0,1.8,28.3,21,0.458,0.319,0.746,Jr
+Aday Mara,Michigan,Big Ten,C,7-3,255,11.3,7.0,2.4,0.4,2.8,2.0,22.8,25,0.651,0.286,0.486,Jr
+Elliot Cadeau,Michigan,Big Ten,PG,6-1,180,9.8,2.7,5.5,0.7,0.0,2.4,24.7,25,0.435,0.394,0.683,Jr
+L.J. Cason,Michigan,Big Ten,PG,6-2,195,8.0,1.8,2.4,0.9,0.0,1.6,19.0,24,0.486,0.366,0.689,So
+Morez Johnson Jr.,Michigan,Big Ten,PF,6-9,250,13.6,7.2,1.2,0.8,1.2,1.3,23.8,25,0.679,0.357,0.802,So
+Nimari Burnett,Michigan,Big Ten,SG,6-5,195,9.2,2.3,1.2,0.6,0.1,0.5,19.3,25,0.485,0.4,0.8,Sr
+Roddy Gayle Jr.,Michigan,Big Ten,SG,6-5,210,7.6,3.2,1.6,0.8,0.4,1.4,20.8,24,0.464,0.279,0.745,Sr
+Trey McKenney,Michigan,Big Ten,SG,6-4,225,9.9,2.7,1.0,0.4,0.0,0.8,21.0,25,0.458,0.364,0.902,Fr
+Will Tschetter,Michigan,Big Ten,PF,6-8,230,4.8,1.9,0.7,0.1,0.1,0.3,14.7,25,0.422,0.381,0.897,Sr
+Yaxel Lendeborg,Michigan,Big Ten,PF,6-9,240,14.4,7.7,3.1,1.2,1.4,1.2,28.4,25,0.504,0.298,0.829,Sr
+Cam Ward,Michigan State,Big Ten,PF,6-8,225,5.1,4.4,0.3,0.3,0.3,1.0,15.0,24,0.591,0.0,0.487,Fr
+Carson Cooper,Michigan State,Big Ten,C,6-11,245,9.9,7.2,1.4,0.6,1.0,1.6,26.0,25,0.554,0.25,0.758,Sr
+Coen Carr,Michigan State,Big Ten,SF,6-6,225,11.7,5.3,1.3,0.5,0.9,1.4,28.4,25,0.505,0.269,0.615,Jr
+Divine Ugochukwu,Michigan State,Big Ten,SG,6-3,190,5.1,1.5,1.5,0.4,0.1,0.7,16.1,22,0.506,0.442,0.556,So
+Jaxon Kohler,Michigan State,Big Ten,PF,6-9,245,12.5,9.3,1.1,0.6,0.8,1.5,28.0,25,0.506,0.408,0.86,Sr
+Jeremy Fears Jr.,Michigan State,Big Ten,PG,6-2,190,15.1,2.6,9.2,1.3,0.0,2.2,31.5,25,0.433,0.253,0.903,So
+Jordan Scott,Michigan State,Big Ten,PF,6-7,190,5.6,3.2,0.9,0.8,0.4,0.7,18.6,25,0.402,0.338,0.694,Fr
+Kaleb Glenn,Michigan State,Big Ten,PF,6-7,220,12.6,4.8,0.6,0.6,0.3,1.2,25.7,34,0.531,0.41,0.624,Jr
+Kur Teng,Michigan State,Big Ten,SG,6-4,190,7.0,2.1,0.9,0.3,0.1,0.7,16.2,25,0.38,0.35,0.909,So
+Trey Fort,Michigan State,Big Ten,SG,6-4,200,4.0,1.2,0.6,0.2,0.2,0.6,10.4,25,0.346,0.323,0.889,Sr
+Bobby Durkin,Minnesota,Big Ten,PF,6-7,220,9.6,3.0,1.7,0.7,0.0,0.8,31.0,25,0.444,0.368,0.882,Jr
+Cade Tyson,Minnesota,Big Ten,SG,6-7,195,19.5,5.4,2.4,0.9,0.1,1.6,36.0,24,0.491,0.387,0.819,Sr
+Chansey Willis Jr.,Minnesota,Big Ten,PG,6-2,205,6.3,3.0,3.3,2.4,0.3,2.1,26.7,7,0.41,0.182,0.455,Jr
+Grayson Grove,Minnesota,Big Ten,PF,6-9,220,3.3,2.4,0.9,0.8,0.6,0.4,15.3,24,0.686,0.5,0.231,Fr
+Isaac Asuma,Minnesota,Big Ten,SG,6-3,205,10.7,4.0,3.9,1.5,0.6,2.1,33.8,25,0.384,0.311,0.769,So
+Jaylen Crocker-Johnson,Minnesota,Big Ten,PF,6-8,240,13.4,6.8,1.8,0.6,1.0,1.7,31.5,24,0.415,0.323,0.718,Jr
+Kai Shinholster,Minnesota,Big Ten,SG,6-5,175,2.1,1.2,1.2,0.4,0.1,0.3,13.2,23,0.315,0.267,0.75,Fr
+Langston Reynolds,Minnesota,Big Ten,SG,6-4,215,11.0,4.4,4.4,0.9,0.1,2.5,32.2,25,0.545,0.25,0.558,Sr
+Robert Vaihola,Minnesota,Big Ten,PF,6-8,265,5.0,7.6,1.4,1.2,0.6,1.0,21.4,5,0.7,0.0,0.5,Sr
+Achor Achor,Mississippi State,SEC,PF,6-9,230,5.9,6.6,0.5,0.5,0.5,1.0,16.9,25,0.419,0.31,0.698,Sr
+Brandon Walker,Mississippi State,SEC,PF,6-8,255,4.7,2.1,0.5,0.2,0.2,0.6,9.0,19,0.507,0.286,0.433,Sr
+Ja'Borri McGhee,Mississippi State,SEC,PG,6-2,200,8.1,2.4,1.8,0.5,0.0,1.5,23.0,25,0.417,0.394,0.674,Sr
+Jamarion Davis-Fleming,Mississippi State,SEC,PF,6-10,240,3.8,4.7,0.5,0.5,1.4,0.5,19.7,25,0.667,0.0,0.306,Fr
+Jayden Epps,Mississippi State,SEC,PG,6-2,190,14.3,2.7,2.2,0.4,0.2,1.7,27.4,23,0.405,0.302,0.829,Sr
+Josh Hubbard,Mississippi State,SEC,PG,6-0,190,21.4,2.3,3.6,1.3,0.1,2.4,32.7,25,0.423,0.333,0.772,Jr
+King Grace,Mississippi State,SEC,SG,6-5,195,4.5,1.1,0.5,0.4,0.3,0.5,11.5,19,0.413,0.257,0.789,Fr
+Quincy Ballard,Mississippi State,SEC,C,7-0,260,6.2,6.2,0.5,0.1,1.1,1.0,20.0,25,0.575,0.0,0.758,Sr
+Sergej Macura,Mississippi State,SEC,PF,6-9,220,5.3,5.3,1.0,0.5,0.2,0.7,18.9,21,0.571,0.25,0.48,So
+Shawn Jones Jr.,Mississippi State,SEC,SG,6-6,205,5.1,4.2,1.4,1.3,0.5,1.3,25.5,25,0.397,0.255,0.633,Sr
+Annor Boateng,Missouri,SEC,SG,6-6,220,2.7,1.8,0.3,0.3,0.2,1.1,11.5,15,0.318,0.25,0.5,So
+Anthony Robinson II,Missouri,SEC,SG,6-3,185,9.0,3.2,3.4,1.7,0.4,1.7,27.3,25,0.397,0.266,0.652,Jr
+Jacob Crews,Missouri,SEC,SG,6-8,215,10.2,4.4,0.3,0.3,0.2,0.7,23.2,25,0.506,0.468,0.816,Sr
+Jayden Stone,Missouri,SEC,SG,6-4,185,14.9,5.0,2.2,1.0,0.2,0.9,30.3,18,0.52,0.396,0.783,Sr
+Jevon Porter,Missouri,SEC,PF,6-11,230,6.2,4.0,1.6,0.8,0.2,0.7,17.4,12,0.491,0.25,0.647,Sr
+Luke Northweather,Missouri,SEC,PF,6-11,235,3.1,2.5,0.6,0.3,0.2,0.3,12.9,19,0.467,0.419,0.571,Jr
+Mark Mitchell,Missouri,SEC,SG,6-9,230,17.2,5.6,3.4,0.7,0.5,1.9,32.9,25,0.539,0.278,0.651,Sr
+Sebastian Mack,Missouri,SEC,SG,6-3,195,7.0,1.3,0.6,0.9,0.1,1.1,16.3,18,0.407,0.273,0.677,Jr
+Shawn Phillips Jr.,Missouri,SEC,C,7-0,245,7.7,5.2,0.7,0.2,1.5,2.0,19.5,23,0.682,0.0,0.473,Sr
+T.O. Barrett,Missouri,SEC,SG,6-4,205,7.9,2.5,2.7,1.2,0.2,1.8,21.6,25,0.493,0.241,0.818,So
+Trent Pierce,Missouri,SEC,SG,6-10,225,9.7,4.1,1.3,0.8,0.4,0.8,25.8,12,0.477,0.389,0.733,Jr
+Alyn Breed,NC State,ACC,SG,6-3,200,4.8,2.1,1.4,0.8,0.1,0.5,15.9,18,0.415,0.357,0.885,Sr
+Darrion Williams,NC State,ACC,SF,6-6,225,14.2,5.2,3.0,1.0,0.3,1.7,29.8,25,0.416,0.403,0.786,Sr
+Jerry Deng,NC State,ACC,PF,6-9,230,6.1,2.1,0.4,0.6,0.1,0.4,12.6,8,0.348,0.324,0.857,Jr
+Matt Able,NC State,ACC,SG,6-6,205,8.5,3.4,1.0,1.2,0.3,1.0,21.0,26,0.421,0.354,0.825,Fr
+Musa Sagnia,NC State,ACC,PF,6-10,235,2.8,3.1,0.3,0.7,0.5,0.5,13.9,26,0.66,0.25,0.45,Fr
+Paul McNeil Jr.,NC State,ACC,SG,6-5,190,13.6,3.6,0.9,0.7,0.4,0.5,27.7,26,0.433,0.435,0.81,So
+Quadir Copeland,NC State,ACC,SG,6-6,220,13.8,3.5,6.8,1.8,0.0,2.7,27.7,26,0.513,0.423,0.77,Sr
+Terrance Arceneaux,NC State,ACC,SG,6-6,205,4.0,2.7,0.4,1.0,0.4,0.4,15.8,22,0.471,0.375,0.765,Jr
+Tre Holloman,NC State,ACC,PG,6-2,195,10.0,1.8,2.2,0.9,0.3,1.3,26.0,24,0.434,0.406,0.806,Sr
+Ven-Allen Lubin,NC State,ACC,PF,6-9,250,13.7,7.1,1.0,0.5,0.9,0.9,27.6,26,0.684,0.273,0.71,Sr
+Berke Buyuktuncel,Nebraska,Big Ten,PF,6-10,244,6.7,5.9,2.1,0.8,1.1,1.4,24.5,24,0.458,0.233,0.646,Jr
+Braden Frager,Nebraska,Big Ten,PF,6-7,220,11.8,3.7,1.0,0.6,0.1,0.9,23.2,23,0.5,0.364,0.821,Fr
+Cale Jacobsen,Nebraska,Big Ten,SG,6-4,195,4.7,3.0,1.5,1.1,0.3,0.6,20.6,25,0.523,0.37,0.567,Jr
+Connor Essegian,Nebraska,Big Ten,SG,6-4,190,5.4,1.3,0.9,0.3,0.0,0.7,14.0,7,0.318,0.258,0.5,Sr
+Jamarques Lawrence,Nebraska,Big Ten,SG,6-3,183,10.6,2.5,3.8,0.9,0.0,2.0,27.5,25,0.454,0.393,0.815,Sr
+Jared Garcia,Nebraska,Big Ten,PF,6-8,245,3.1,2.0,0.4,0.1,0.5,0.5,8.3,21,0.339,0.188,0.792,Sr
+Pryce Sandfort,Nebraska,Big Ten,PF,6-7,215,17.5,4.6,1.9,1.0,0.3,0.7,32.4,25,0.469,0.402,0.836,Jr
+Rienk Mast,Nebraska,Big Ten,PF,6-10,250,14.3,6.1,3.2,0.5,0.3,1.8,28.5,24,0.458,0.336,0.813,Sr
+Sam Hoiberg,Nebraska,Big Ten,PG,6-0,185,9.6,5.3,4.4,2.1,0.1,0.8,31.5,25,0.544,0.419,0.721,Sr
+Will Cooper,Nebraska,Big Ten,SF,6-6,210,5.3,1.8,0.4,0.1,0.4,1.2,15.2,21,0.451,0.377,0.818,So
+Caleb Wilson,North Carolina,ACC,PF,6-10,215,19.8,9.4,2.7,1.5,1.4,2.0,31.3,24,0.578,0.259,0.713,Fr
+Derek Dixon,North Carolina,ACC,SG,6-5,200,5.6,2.3,2.7,0.3,0.0,1.2,20.2,25,0.352,0.378,0.815,Fr
+Henri Veesaar,North Carolina,ACC,C,7-0,225,16.4,9.0,2.0,0.6,1.2,1.5,31.0,24,0.615,0.448,0.621,Jr
+Jarin Stevenson,North Carolina,ACC,PF,6-10,215,7.6,3.6,0.9,0.6,0.5,0.7,23.7,25,0.477,0.308,0.77,Jr
+Jonathan Powell,North Carolina,ACC,SG,6-6,190,4.8,2.2,0.9,0.5,0.1,0.3,16.0,25,0.398,0.363,0.421,So
+Kyan Evans,North Carolina,ACC,PG,6-2,175,4.8,1.3,2.9,0.6,0.0,1.2,19.6,25,0.336,0.305,0.636,Jr
+Luka Bogavac,North Carolina,ACC,SG,6-6,215,9.8,2.4,2.4,0.4,0.0,1.0,23.6,25,0.404,0.345,0.764,Fr
+Seth Trimble,North Carolina,ACC,SG,6-3,200,13.9,3.8,2.4,1.3,0.3,1.3,31.3,16,0.465,0.326,0.721,Sr
+Angelo Ciaravino,Northwestern,Big Ten,SG,6-6,195,6.3,3.7,1.3,0.4,0.6,0.4,21.4,25,0.52,0.229,0.567,So
+Arrinten Page,Northwestern,Big Ten,PF,6-11,245,10.7,4.6,1.9,0.8,1.1,1.1,22.7,25,0.551,0.231,0.655,Jr
+Jake West,Northwestern,Big Ten,SG,6-3,170,4.1,0.7,2.7,0.6,0.2,0.9,19.0,26,0.373,0.327,0.737,Fr
+Jayden Reid,Northwestern,Big Ten,PG,5-10,160,10.4,1.5,4.9,0.8,0.1,1.7,24.8,26,0.395,0.329,0.835,Jr
+Jordan Clayton,Northwestern,Big Ten,PG,6-2,185,2.7,1.7,1.2,0.3,0.2,0.4,17.6,23,0.308,0.315,0.556,Jr
+Justin Mullins,Northwestern,Big Ten,SG,6-6,200,3.5,1.6,0.8,0.5,0.3,0.6,13.1,19,0.52,0.333,0.375,Sr
+K.J. Windham,Northwestern,Big Ten,SG,6-3,190,3.8,1.4,1.2,0.5,0.1,0.2,13.3,13,0.333,0.343,1.0,So
+Max Green,Northwestern,Big Ten,SG,6-6,190,4.3,1.8,1.0,0.7,0.1,0.3,14.7,23,0.37,0.338,0.6,So
+Nick Martinelli,Northwestern,Big Ten,PF,6-7,225,22.1,6.4,1.6,0.6,0.4,1.5,34.7,25,0.5,0.43,0.805,Sr
+Tre Singleton,Northwestern,Big Ten,PF,6-8,215,8.1,5.0,1.5,0.5,0.7,1.2,25.0,26,0.472,0.167,0.732,Fr
+Tyler Kropp,Northwestern,Big Ten,PF,6-9,230,3.2,2.1,0.2,0.3,0.3,0.4,11.4,23,0.433,0.222,0.952,Fr
+Brady Koehler,Notre Dame,ACC,PF,6-10,205,5.2,3.0,0.3,0.7,0.7,0.8,15.1,25,0.457,0.39,0.711,Fr
+Braeden Shrewsberry,Notre Dame,ACC,SG,6-4,205,12.3,2.8,1.9,0.4,0.2,1.3,32.1,26,0.413,0.425,0.8,Jr
+Carson Towt,Notre Dame,ACC,PF,6-8,250,6.3,9.3,1.7,0.7,0.4,1.2,25.8,26,0.617,0.0,0.354,Sr
+Cole Certa,Notre Dame,ACC,SG,6-5,205,11.9,1.8,0.8,0.3,0.0,0.5,25.2,26,0.386,0.384,0.905,So
+Garrett Sundra,Notre Dame,ACC,PF,6-11,230,3.8,3.3,0.5,0.2,0.3,0.4,18.7,26,0.457,0.333,0.667,So
+Jalen Haralson,Notre Dame,ACC,PF,6-7,220,15.5,3.7,2.6,0.5,0.3,2.9,26.6,24,0.509,0.208,0.641,Fr
+Kebba Njie,Notre Dame,ACC,PF,6-10,255,2.5,3.4,0.2,0.1,0.2,0.6,11.5,17,0.632,0.0,0.72,Sr
+Logan Imes,Notre Dame,ACC,SG,6-4,205,4.1,3.1,1.7,0.7,0.0,1.1,19.9,26,0.357,0.288,0.471,Jr
+Markus Burton,Notre Dame,ACC,PG,6-0,190,18.5,2.8,3.7,1.6,0.1,2.6,30.1,10,0.489,0.306,0.917,Jr
+Sir Mohammed,Notre Dame,ACC,SG,6-6,215,5.5,2.8,1.5,0.5,0.2,1.4,16.0,26,0.393,0.278,0.571,So
+Amare Bynum,Ohio State,Big Ten,PF,6-8,220,9.4,4.6,1.0,0.6,0.8,1.1,27.4,25,0.489,0.281,0.727,Fr
+Brandon Noel,Ohio State,Big Ten,PF,6-8,240,7.4,4.1,1.0,0.3,0.2,1.1,20.6,14,0.643,0.214,0.733,Sr
+Bruce Thornton,Ohio State,Big Ten,PG,6-2,215,19.6,5.3,3.7,1.3,0.2,1.4,36.2,25,0.549,0.389,0.825,Sr
+Christoph Tilly,Ohio State,Big Ten,C,7-0,240,11.8,4.7,2.3,0.5,0.6,1.6,26.5,24,0.456,0.235,0.76,Sr
+Colin White,Ohio State,Big Ten,SF,6-6,205,0.8,1.0,0.4,0.3,0.1,0.1,8.5,23,0.375,0.0,0.333,So
+Devin Royal,Ohio State,Big Ten,SF,6-6,220,13.6,5.6,1.7,0.6,0.1,1.9,32.4,24,0.479,0.295,0.811,Jr
+Gabe Cupps,Ohio State,Big Ten,PG,6-2,180,1.8,1.3,1.3,0.5,0.0,0.7,13.1,24,0.375,0.235,0.824,So
+Ivan Njegovan,Ohio State,Big Ten,C,7-1,250,2.9,3.3,0.7,0.1,0.4,0.7,11.1,21,0.535,0.5,0.609,So
+John Mobley Jr.,Ohio State,Big Ten,PG,6-1,175,15.1,2.5,2.8,0.8,0.1,1.7,31.0,24,0.422,0.4,0.878,So
+Josh Ojianwuna,Ohio State,Big Ten,PF,6-10,230,7.4,6.4,0.6,0.9,0.8,0.8,24.6,23,0.774,0.0,0.645,Sr
+Puff Johnson,Ohio State,Big Ten,SG,6-8,210,3.0,1.2,0.0,0.2,0.0,0.4,10.6,5,0.571,0.75,0.8,Sr
+Taison Chatman,Ohio State,Big Ten,SG,6-4,175,4.0,1.0,0.7,0.3,0.1,0.6,10.2,20,0.52,0.533,0.786,So
+Dayton Forsythe,Oklahoma,SEC,PG,6-2,190,4.9,1.6,1.7,0.6,0.1,1.0,15.7,19,0.351,0.333,0.829,So
+Derrion Reid,Oklahoma,SEC,PF,6-8,226,11.5,4.4,1.2,0.5,0.2,1.1,27.3,25,0.492,0.328,0.731,So
+Jadon Jones,Oklahoma,SEC,SG,6-5,180,5.5,2.6,0.7,1.1,0.7,0.4,18.5,21,0.337,0.316,0.744,Sr
+Jeff Nwankwo,Oklahoma,SEC,SG,6-6,210,3.0,2.4,0.7,0.5,0.0,0.4,11.8,23,0.299,0.235,0.5,Sr
+Kirill Elatontsev,Oklahoma,SEC,C,6-11,240,5.1,2.8,0.8,0.8,0.4,0.4,16.4,13,0.575,0.45,0.688,Sr
+Kuol Atak,Oklahoma,SEC,PF,6-9,192,7.3,1.3,0.2,0.2,0.5,0.5,12.7,19,0.485,0.438,0.714,Fr
+Mohamed Wague,Oklahoma,SEC,PF,6-10,225,6.4,6.6,1.2,0.5,1.3,1.2,21.2,25,0.602,0.25,0.6,Sr
+Nijel Pack,Oklahoma,SEC,PG,5-10,188,16.0,3.4,3.2,0.7,0.3,1.7,29.9,25,0.457,0.432,0.886,Sr
+Tae Davis,Oklahoma,SEC,PF,6-9,215,13.0,5.9,2.4,0.6,0.2,1.4,28.7,25,0.51,0.158,0.694,Sr
+Xzayvier Brown,Oklahoma,SEC,PG,6-2,182,16.1,3.2,3.1,1.3,0.2,1.9,31.9,25,0.471,0.346,0.908,Jr
+Andrija Vukovic,Oklahoma State,Big 12,PF,6-11,270,4.8,3.0,0.7,0.5,0.4,0.7,15.1,21,0.656,0.5,0.714,So
+Anthony Roy,Oklahoma State,Big 12,SG,6-5,205,17.6,3.9,1.2,0.6,0.3,1.5,28.7,22,0.443,0.423,0.84,Sr
+Benjamin Ahmed,Oklahoma State,Big 12,C,6-10,275,3.1,2.9,0.2,0.0,0.5,0.8,8.7,11,0.522,0.0,0.476,Fr
+Christian Coleman,Oklahoma State,Big 12,SG,6-8,210,9.5,4.4,1.0,0.9,0.8,1.0,23.0,24,0.524,0.324,0.638,Sr
+Daniel Guetta,Oklahoma State,Big 12,PG,6-2,180,1.1,0.5,0.5,0.1,0.0,1.0,8.1,8,0.4,0.0,0.5,Fr
+Isaiah Coleman,Oklahoma State,Big 12,SG,6-5,200,6.5,3.8,0.8,0.8,0.3,1.5,19.7,24,0.492,0.05,0.6,Jr
+Jaylen Curry,Oklahoma State,Big 12,PG,6-1,175,10.2,3.2,4.3,1.6,0.1,1.5,24.3,23,0.423,0.286,0.768,Jr
+Kanye Clary,Oklahoma State,Big 12,PG,6-0,190,9.3,2.8,5.1,1.4,0.0,2.0,25.6,24,0.38,0.311,0.797,Jr
+Lefteris Mantzoukas,Oklahoma State,Big 12,PF,6-9,230,4.4,4.2,0.5,0.2,0.3,1.0,17.8,12,0.375,0.242,0.6,Fr
+Parsa Fallah,Oklahoma State,Big 12,PF,6-10,250,14.3,6.2,0.7,1.1,0.4,1.3,25.7,23,0.61,0.409,0.683,Sr
+Ryan Crotty,Oklahoma State,Big 12,SG,6-6,215,3.2,1.9,0.4,0.1,0.1,0.2,10.6,18,0.349,0.343,0.75,Fr
+Vyctorius Miller,Oklahoma State,Big 12,SG,6-5,190,12.2,2.9,1.8,0.9,0.3,1.8,26.4,23,0.448,0.396,0.83,So
+AJ Storr,Ole Miss,SEC,SG,6-5,205,14.6,3.4,1.9,0.9,0.1,1.3,25.4,25,0.441,0.388,0.75,Sr
+Augusto Cassiá,Ole Miss,SEC,PF,6-8,225,2.5,1.7,0.6,0.4,0.2,0.4,11.2,25,0.471,0.267,0.786,Jr
+Corey Chest,Ole Miss,SEC,PF,6-8,220,3.0,4.2,0.7,0.4,0.8,0.6,14.0,25,0.596,1.0,0.522,So
+Eduardo Klafke,Ole Miss,SEC,SG,6-5,200,4.2,2.2,1.1,0.6,0.2,0.5,13.3,25,0.48,0.333,0.733,So
+Ilias Kamardine,Ole Miss,SEC,SG,6-4,180,10.6,3.3,3.8,1.2,0.3,2.0,29.7,25,0.416,0.3,0.727,Sr
+James Scott,Ole Miss,SEC,PF,6-10,225,3.3,3.9,0.6,0.4,1.1,0.4,16.6,25,0.698,0.0,0.529,Jr
+Kezza Giffa,Ole Miss,SEC,PG,6-1,175,6.6,1.3,1.4,0.7,0.1,1.0,16.0,23,0.446,0.381,0.824,Sr
+Koren Johnson,Ole Miss,SEC,PG,6-1,180,2.1,0.8,1.2,0.5,0.2,0.6,9.0,20,0.283,0.24,0.667,Jr
+Malik Dia,Ole Miss,SEC,PF,6-9,250,13.2,6.1,0.8,0.6,0.9,1.5,23.5,25,0.424,0.25,0.706,Sr
+Patton Pinkins,Ole Miss,SEC,SG,6-5,200,8.6,1.8,0.7,0.2,0.1,0.2,22.6,25,0.463,0.44,0.846,Fr
+Travis Perry,Ole Miss,SEC,PG,6-1,185,5.0,1.3,0.8,0.8,0.2,0.4,15.0,25,0.342,0.347,0.875,So
+Devon Pryor,Oregon,Big Ten,PF,6-7,185,2.9,2.5,1.2,0.5,0.2,0.6,18.1,16,0.425,0.222,0.474,Jr
+Dezdrick Lindsay,Oregon,Big Ten,SF,6-6,200,5.4,3.0,1.5,0.8,0.1,0.9,20.6,25,0.419,0.375,0.583,Sr
+Drew Carter,Oregon,Big Ten,SG,6-3,200,2.1,0.9,0.4,0.1,0.0,0.8,11.1,19,0.382,0.379,1.0,Sr
+Ege Demir,Oregon,Big Ten,C,6-11,200,2.2,3.5,0.3,0.4,0.5,0.7,8.8,19,0.444,0.0,0.286,Jr
+Jackson Shelstad,Oregon,Big Ten,PG,6-1,170,15.6,2.9,4.9,1.4,0.1,1.8,34.8,12,0.391,0.314,0.846,Jr
+Jamari Phillips,Oregon,Big Ten,SG,6-4,190,3.1,0.7,0.5,0.2,0.1,0.6,11.2,19,0.357,0.326,1.0,So
+Kwame Evans Jr.,Oregon,Big Ten,PF,6-10,220,12.5,7.1,2.1,1.0,1.3,2.0,30.1,23,0.46,0.278,0.769,Jr
+Nate Bittle,Oregon,Big Ten,C,7-0,220,16.9,6.7,2.4,0.6,2.1,2.0,29.0,18,0.458,0.346,0.741,Sr
+Oleksandr Kobzystyi,Oregon,Big Ten,PF,6-8,200,2.6,1.4,0.3,0.1,0.1,0.1,9.9,16,0.4,0.4,0.75,Sr
+Sean Stewart,Oregon,Big Ten,PF,6-9,220,7.0,5.5,1.0,0.9,0.5,1.3,23.1,25,0.504,1.0,0.549,Jr
+Takai Simpkins,Oregon,Big Ten,SG,6-4,184,13.0,2.9,2.1,1.0,0.2,2.2,31.4,24,0.444,0.373,0.817,Sr
+Wei Lin,Oregon,Big Ten,SG,6-4,200,6.8,1.0,1.7,0.3,0.0,1.1,18.1,24,0.336,0.289,0.837,So
+Dominick Stewart,Penn State,Big Ten,SG,6-5,195,6.9,2.2,1.4,0.7,0.2,0.7,20.9,26,0.417,0.368,0.735,So
+Eli Rice,Penn State,Big Ten,SG,6-8,230,8.0,1.6,0.2,0.6,0.2,0.6,20.6,24,0.435,0.441,0.8,So
+Freddie Dilione V,Penn State,Big Ten,SG,6-5,195,14.4,3.4,2.4,1.3,0.2,1.4,27.3,26,0.471,0.29,0.836,Jr
+Ivan Juric,Penn State,Big Ten,PF,7-0,250,9.2,5.2,0.7,0.4,0.2,1.6,26.0,24,0.531,0.295,0.663,Fr
+Josh Reed,Penn State,Big Ten,PF,6-8,230,10.8,4.0,0.9,1.1,0.1,1.1,27.4,26,0.5,0.338,0.852,Sr
+Kayden Mingo,Penn State,Big Ten,SG,6-3,195,13.9,3.4,4.2,2.2,0.1,1.9,31.5,23,0.458,0.237,0.738,Fr
+Mason Blackwood,Penn State,Big Ten,PF,6-7,230,2.8,1.8,0.3,0.3,0.0,0.2,11.4,20,0.5,0.182,1.0,Fr
+Melih Tunca,Penn State,Big Ten,SG,6-5,195,8.2,2.3,2.4,0.7,0.2,1.3,23.5,26,0.448,0.327,0.746,Fr
+Saša Ciani,Penn State,Big Ten,PF,6-10,240,2.4,2.1,0.3,0.1,0.2,0.5,10.9,22,0.388,0.25,0.684,Jr
+Tibor Mirtic,Penn State,Big Ten,PF,6-9,255,3.7,3.3,0.7,0.5,0.1,0.7,14.1,15,0.532,0.333,0.308,Fr
+Barry Dunning Jr.,Pittsburgh,ACC,SG,6-6,195,11.6,5.6,0.8,0.7,0.8,1.1,29.8,26,0.454,0.315,0.754,Sr
+Brandin Cummings,Pittsburgh,ACC,SG,6-3,175,12.5,1.5,2.1,0.7,0.1,1.2,26.2,19,0.424,0.326,0.718,So
+Cameron Corhen,Pittsburgh,ACC,PF,6-10,235,12.4,7.2,1.8,0.9,0.5,2.2,33.6,26,0.525,0.375,0.628,Sr
+Damarco Minor,Pittsburgh,ACC,PG,6-0,190,9.1,3.8,3.4,1.4,0.3,1.5,31.2,26,0.4,0.359,0.911,Sr
+Dishon Jackson,Pittsburgh,ACC,C,6-11,270,8.5,5.1,0.6,0.5,1.1,1.1,18.7,35,0.58,0.0,0.72,Sr
+Nojus Indrusaitis,Pittsburgh,ACC,SG,6-5,200,7.7,3.0,1.6,0.9,0.1,1.3,22.7,26,0.358,0.353,0.556,So
+Omari Witherspoon,Pittsburgh,ACC,SG,6-4,190,7.3,2.7,2.3,0.7,0.7,2.2,26.2,26,0.372,0.282,0.625,Fr
+Papa Amadou Kante,Pittsburgh,ACC,PF,6-10,235,2.8,5.4,0.9,0.3,0.1,0.4,14.1,8,0.45,0.0,0.444,So
+Roman Siulepa,Pittsburgh,ACC,SF,6-6,220,10.3,5.3,1.0,1.0,0.6,0.9,26.4,26,0.47,0.304,0.493,Fr
+Cole Hargrove,Providence,Big East,PF,6-8,245,2.2,2.9,0.5,0.3,0.6,0.5,12.5,22,0.531,0.0,0.7,Sr
+Corey Floyd Jr.,Providence,Big East,SG,6-4,208,8.2,4.3,2.6,0.6,0.2,1.6,26.8,22,0.441,0.38,0.786,Sr
+Duncan Powell,Providence,Big East,PF,6-8,240,4.9,3.1,0.8,0.3,0.3,0.7,17.8,20,0.365,0.306,0.615,Sr
+Jamier Jones,Providence,Big East,SF,6-6,218,12.1,4.4,1.5,0.8,0.2,1.6,24.0,24,0.599,0.462,0.677,Fr
+Jason Edwards,Providence,Big East,PG,6-1,180,17.3,2.9,3.1,0.9,0.1,1.6,27.1,18,0.437,0.365,0.779,Sr
+Jaylen Harrell,Providence,Big East,SG,6-5,210,3.7,0.7,0.3,0.2,0.0,0.0,9.0,6,0.5,0.273,1.0,Fr
+Jaylin Sellers,Providence,Big East,SG,6-5,205,17.2,4.1,1.7,0.9,0.2,1.7,28.7,26,0.461,0.407,0.878,Sr
+Nilavan Daniels,Providence,Big East,SG,6-3,180,1.8,1.1,0.4,0.3,0.1,0.1,9.0,13,0.429,0.462,0.714,So
+Oswin Erhunmwunse,Providence,Big East,PF,6-10,235,7.5,8.2,0.7,0.3,2.4,1.3,24.6,26,0.694,0.0,0.574,So
+Rich Barron,Providence,Big East,SF,6-5,225,5.2,2.3,0.6,0.6,0.0,0.5,19.0,27,0.35,0.337,0.545,Jr
+Ryan Mela,Providence,Big East,SG,6-7,205,8.8,5.2,1.9,0.8,0.1,1.6,23.8,26,0.494,0.237,0.823,So
+Stefan Vaaks,Providence,Big East,SG,6-7,206,15.8,2.5,3.3,0.9,0.3,1.8,31.2,26,0.398,0.327,0.84,Fr
+Braden Smith,Purdue,Big Ten,PG,6-0,170,14.7,4.0,8.9,1.8,0.2,3.0,33.8,25,0.482,0.415,0.768,Sr
+C.J. Cox,Purdue,Big Ten,SG,6-3,195,8.4,2.5,1.3,0.6,0.0,0.3,24.1,25,0.44,0.358,0.821,So
+Daniel Jacobsen,Purdue,Big Ten,C,7-4,250,7.1,3.9,0.4,0.1,1.6,0.7,15.5,25,0.654,0.375,0.65,So
+Fletcher Loyer,Purdue,Big Ten,SG,6-5,180,13.5,2.2,1.8,0.6,0.0,1.1,28.2,25,0.415,0.388,0.881,Sr
+Gicarri Harris,Purdue,Big Ten,SG,6-3,210,5.3,1.7,1.0,1.0,0.0,0.3,16.8,25,0.396,0.338,0.867,So
+Jack Benter,Purdue,Big Ten,SG,6-6,215,5.1,3.0,0.8,0.3,0.1,0.5,14.8,24,0.512,0.441,0.533,Fr
+Liam Murphy,Purdue,Big Ten,PF,6-8,225,2.8,0.9,0.2,0.1,0.0,0.0,8.3,9,0.391,0.368,0.0,Sr
+Omer Mayer,Purdue,Big Ten,SG,6-4,215,5.5,1.3,1.3,0.5,0.0,1.0,14.7,25,0.408,0.347,0.647,Fr
+Oscar Cluff,Purdue,Big Ten,C,6-11,255,10.5,7.4,1.6,0.3,0.7,0.6,23.4,25,0.728,0.0,0.696,Sr
+Trey Kaufman-Renn,Purdue,Big Ten,PF,6-9,240,12.4,9.0,2.7,0.5,0.2,1.6,27.5,23,0.567,0.182,0.627,Sr
+Bryce Dortch,Rutgers,Big Ten,PF,6-9,210,2.4,3.4,0.1,0.6,0.8,0.5,15.5,25,0.667,0.0,0.522,So
+Chris Nwuli,Rutgers,Big Ten,PF,6-8,205,1.9,1.6,0.4,0.2,0.3,0.8,10.0,24,0.359,0.5,0.682,Fr
+Darren Buchanan Jr.,Rutgers,Big Ten,SG,6-7,235,8.2,3.3,1.5,0.7,0.2,1.3,23.0,25,0.474,0.4,0.573,Jr
+Denis Badalau,Rutgers,Big Ten,PF,6-8,200,3.4,1.8,0.8,0.3,0.2,0.6,13.0,21,0.321,0.227,0.632,Fr
+Dylan Grant,Rutgers,Big Ten,PF,6-8,220,10.6,4.6,0.4,0.5,0.3,1.1,24.4,25,0.445,0.333,0.725,So
+Emmanuel Ogbole,Rutgers,Big Ten,C,6-10,260,4.2,6.6,0.4,0.2,1.2,1.1,18.2,25,0.547,0.0,0.579,Sr
+Harun Zrno,Rutgers,Big Ten,SG,6-7,220,7.0,1.8,0.6,0.4,0.0,1.2,19.4,25,0.357,0.35,0.742,Fr
+Jamichael Davis,Rutgers,Big Ten,PG,6-2,180,7.2,2.9,2.5,1.0,0.3,1.0,27.1,25,0.373,0.355,0.745,Jr
+Kaden Powers,Rutgers,Big Ten,SG,6-4,195,6.9,1.8,1.5,0.5,0.2,1.1,15.5,20,0.359,0.318,0.813,Fr
+Lino Mark,Rutgers,Big Ten,PG,6-2,185,3.4,1.5,0.8,0.8,0.1,0.8,13.0,24,0.279,0.08,0.821,Fr
+Tariq Francis,Rutgers,Big Ten,PG,6-1,180,16.6,2.3,2.5,0.9,0.0,1.2,26.8,25,0.431,0.327,0.897,Jr
+B.J. Edwards,SMU,ACC,SG,6-3,200,13.2,6.1,5.0,2.4,0.2,2.0,34.0,25,0.474,0.363,0.771,Sr
+Boopie Miller,SMU,ACC,PG,6-0,175,18.9,3.6,6.8,1.8,0.1,2.5,34.8,24,0.464,0.414,0.869,Sr
+Corey Washington,SMU,ACC,SF,6-6,190,11.3,4.9,0.8,0.9,0.6,1.1,27.0,25,0.503,0.42,0.793,Sr
+Jaden Toombs,SMU,ACC,C,6-10,230,8.1,3.8,0.8,0.3,0.6,0.7,18.1,18,0.555,0.278,0.655,Fr
+Jaron Pierre Jr.,SMU,ACC,SG,6-5,210,17.4,4.9,1.8,0.8,0.3,1.6,32.1,25,0.464,0.368,0.781,Sr
+Jermaine O'Neal Jr.,SMU,ACC,SF,6-5,185,4.6,2.2,0.5,0.3,0.3,0.4,14.0,25,0.464,0.405,0.875,Fr
+Sam Walters,SMU,ACC,PF,6-9,230,2.6,1.0,0.3,0.1,0.1,0.5,9.5,17,0.395,0.344,0.0,Jr
+Samet Yigitoglu,SMU,ACC,C,7-2,270,10.7,8.0,1.7,0.5,1.4,1.9,28.3,25,0.614,0.0,0.538,So
+AJ Staton-McCray,Seton Hall,Big East,SG,6-4,200,12.0,3.3,1.4,1.5,0.6,1.3,26.8,26,0.42,0.342,0.875,Sr
+Adam Clark,Seton Hall,Big East,PG,5-10,165,12.5,2.9,4.8,2.1,0.0,2.3,29.8,26,0.449,0.281,0.72,Jr
+Elijah Fisher,Seton Hall,Big East,SG,6-6,220,6.8,3.0,0.7,1.0,0.4,0.9,21.2,26,0.432,0.194,0.683,Sr
+Jacob Dar,Seton Hall,Big East,SG,6-7,190,2.3,1.5,0.4,0.2,0.3,0.3,9.2,25,0.44,0.167,0.857,Sr
+Josh Rivera,Seton Hall,Big East,SF,6-6,225,3.4,2.1,0.5,0.4,0.0,0.5,12.1,23,0.478,0.4,0.524,Sr
+Mike Williams,Seton Hall,Big East,SG,6-3,185,7.2,2.5,1.5,1.1,0.0,1.0,20.4,26,0.368,0.338,0.74,Jr
+Najai Hines,Seton Hall,Big East,PF,6-10,265,6.0,5.3,0.6,0.3,2.2,0.6,16.6,24,0.574,0.0,0.667,Fr
+Patrick Suemnick,Seton Hall,Big East,PF,6-8,235,2.9,1.9,0.3,0.4,0.2,0.5,11.7,34,0.52,0.0,0.44,Sr
+Stephon Payne,Seton Hall,Big East,PF,6-9,235,6.7,7.2,0.6,0.9,1.5,0.7,21.4,26,0.535,0.0,0.521,Sr
+Tajuan Simpkins,Seton Hall,Big East,SG,6-4,190,10.7,2.9,1.3,1.1,0.4,1.0,25.8,26,0.434,0.405,0.793,Jr
+Trey Parker,Seton Hall,Big East,PG,6-0,180,4.4,2.7,1.5,0.9,0.3,1.3,16.0,26,0.357,0.205,0.818,So
+Cam Scott,South Carolina,SEC,SG,6-6,172,2.5,1.3,0.4,0.0,0.0,0.6,10.1,26,0.278,0.178,0.737,So
+EJ Walker,South Carolina,SEC,PF,6-7,253,3.1,2.3,0.1,0.2,0.2,0.6,14.1,15,0.563,0.308,0.545,Fr
+Eli Ellis,South Carolina,SEC,PG,6-0,192,9.5,2.9,1.9,0.9,0.0,1.0,27.5,21,0.4,0.277,0.86,Fr
+Elijah Strong,South Carolina,SEC,PF,6-8,250,10.5,2.6,1.2,0.4,0.2,1.0,17.6,25,0.45,0.28,0.778,Jr
+Grant Polk,South Carolina,SEC,SG,6-6,197,4.3,1.4,0.2,0.3,0.0,0.2,14.8,23,0.374,0.319,0.889,Fr
+Hayden Assemian,South Carolina,SEC,SF,6-6,230,2.5,2.4,0.3,0.2,0.4,0.5,10.1,23,0.694,0.0,0.583,Fr
+Jordan Butler,South Carolina,SEC,PF,7-0,237,3.2,2.1,0.2,0.2,0.2,0.2,9.3,19,0.514,0.2,0.778,Jr
+Kobe Knox,South Carolina,SEC,SG,6-5,200,10.5,3.7,2.3,1.0,0.2,1.3,29.7,25,0.491,0.283,0.787,Sr
+Meechie Johnson,South Carolina,SEC,PG,6-2,192,16.7,3.2,4.2,1.3,0.2,2.1,31.4,25,0.421,0.331,0.809,Sr
+Mike Sharavjamts,South Carolina,SEC,SG,6-9,195,10.9,5.5,2.6,0.8,1.0,1.5,30.2,25,0.485,0.313,0.901,Sr
+Myles Stute,South Carolina,SEC,SG,6-7,221,6.6,4.3,0.9,0.7,0.2,1.2,25.0,22,0.366,0.317,0.64,Sr
+Bryce Hopkins,St. John's,Big East,PF,6-7,225,13.6,5.8,2.2,1.1,0.3,1.2,27.6,25,0.451,0.288,0.722,Sr
+Dillon Mitchell,St. John's,Big East,PF,6-8,210,9.2,7.1,2.8,1.4,0.7,1.0,26.7,25,0.558,0.0,0.559,Sr
+Dylan Darling,St. John's,Big East,PG,6-1,175,7.1,2.3,2.1,1.3,0.1,0.9,19.4,23,0.467,0.364,0.71,Jr
+Ian Jackson,St. John's,Big East,SG,6-5,195,10.5,2.3,1.3,0.8,0.2,1.5,19.6,25,0.428,0.358,0.902,So
+Joson Sanon,St. John's,Big East,SG,6-5,200,8.2,2.6,0.6,0.6,0.2,1.2,20.8,25,0.36,0.357,0.79,So
+Lefteris Liotopoulos,St. John's,Big East,SG,6-4,195,3.4,1.0,0.4,0.2,0.0,0.5,8.0,21,0.382,0.357,0.737,So
+Oziyah Sellers,St. John's,Big East,SG,6-5,190,10.9,3.1,2.0,0.6,0.3,0.8,30.0,25,0.435,0.356,0.84,Sr
+Ruben Prey,St. John's,Big East,PF,6-11,230,3.6,1.8,0.8,0.6,0.8,0.5,10.0,25,0.475,0.538,0.706,So
+Sadiku Ibine Ayo,St. John's,Big East,SF,6-6,215,2.3,1.1,0.5,0.6,0.1,0.3,9.1,20,0.432,0.353,1.0,Sr
+Zuby Ejiofor,St. John's,Big East,PF,6-9,245,16.2,7.4,3.5,1.2,1.9,2.4,30.1,25,0.54,0.324,0.7,Sr
+AJ Rohosy,Stanford,ACC,PF,6-9,230,7.1,5.3,0.6,0.4,0.5,1.0,19.1,26,0.557,0.0,0.322,Sr
+Aidan Cammann,Stanford,ACC,PF,6-10,230,5.7,3.9,1.3,1.1,0.4,1.1,20.6,26,0.505,0.3,0.696,So
+Benny Gealer,Stanford,ACC,PG,6-1,185,10.5,2.4,1.8,1.5,0.0,0.8,28.1,26,0.43,0.419,0.891,Sr
+Cameron Grant,Stanford,ACC,PF,6-7,220,2.4,1.4,0.4,0.1,0.2,0.3,11.4,18,0.246,0.245,1.0,So
+Chisom Okpara,Stanford,ACC,PF,6-8,240,13.9,3.9,2.2,1.1,0.4,2.6,28.5,17,0.393,0.304,0.73,Sr
+Donavin Young,Stanford,ACC,PF,6-8,220,2.4,2.4,0.6,0.2,0.7,0.4,14.7,14,0.424,0.3,0.0,So
+Ebuka Okorie,Stanford,ACC,PG,6-2,185,22.5,3.3,3.3,1.5,0.3,1.7,34.3,24,0.44,0.326,0.833,Fr
+Jeremy Dent-Smith,Stanford,ACC,PG,6-1,200,8.5,1.9,1.8,0.8,0.1,1.3,21.6,26,0.364,0.362,0.828,Sr
+Oskar Giltay,Stanford,ACC,PF,6-10,235,3.8,4.9,0.4,0.8,1.3,0.8,15.4,25,0.627,0.0,0.553,Fr
+Ryan Agarwal,Stanford,ACC,SG,6-6,205,6.4,4.2,0.8,0.7,0.2,1.3,24.0,25,0.369,0.349,0.7,Jr
+Donnie Freeman,Syracuse,ACC,PF,6-9,205,17.6,7.2,1.5,1.0,1.1,2.3,30.9,17,0.488,0.328,0.75,So
+Ibrahim Souare,Syracuse,ACC,PF,6-9,225,0.9,1.9,0.2,0.2,0.7,0.3,8.7,23,0.8,0.0,0.417,So
+J.J. Starling,Syracuse,ACC,SG,6-4,206,12.1,2.8,2.3,1.0,0.3,1.4,30.0,24,0.447,0.31,0.544,Sr
+Kiyan Anthony,Syracuse,ACC,SG,6-5,185,8.8,1.6,1.0,0.4,0.2,1.0,19.3,25,0.418,0.246,0.625,Fr
+Naithan George,Syracuse,ACC,SG,6-3,185,10.5,3.0,5.6,1.5,0.3,3.1,31.1,26,0.418,0.314,0.816,Jr
+Nate Kingz,Syracuse,ACC,SG,6-5,190,11.7,3.9,1.3,1.0,0.6,0.8,31.1,26,0.48,0.367,0.607,Sr
+Sadiq White Jr.,Syracuse,ACC,PF,6-9,195,5.9,3.2,0.5,0.5,0.7,1.0,15.2,26,0.533,0.313,0.514,Fr
+Tyler Betsey,Syracuse,ACC,PF,6-8,225,6.8,2.9,0.4,0.4,0.2,0.5,17.8,25,0.409,0.394,0.667,So
+William Kyle III,Syracuse,ACC,PF,6-9,230,8.9,7.7,1.0,1.0,2.7,1.2,28.3,26,0.652,0.0,0.5,Sr
+Brock Harding,TCU,Big 12,PG,6-0,160,8.4,2.9,5.9,1.6,0.2,2.1,32.0,25,0.395,0.293,0.63,Jr
+David Punch,TCU,Big 12,PF,6-7,246,14.3,6.9,1.9,1.3,2.1,1.6,29.9,24,0.522,0.258,0.613,So
+Jace Posey,TCU,Big 12,SG,6-5,222,4.9,2.5,0.3,0.5,0.2,0.7,12.5,24,0.438,0.154,0.696,So
+Jayden Pierre,TCU,Big 12,PG,6-0,177,10.7,2.3,2.8,1.1,0.4,1.4,30.2,25,0.426,0.389,0.85,Sr
+Liutauras Lelevicius,TCU,Big 12,SG,6-7,225,7.8,3.2,0.7,0.5,0.1,0.5,23.4,24,0.477,0.407,0.935,Jr
+Micah Robinson,TCU,Big 12,SF,6-6,232,10.0,4.6,1.9,1.1,0.4,1.4,24.9,25,0.386,0.307,0.757,So
+Tanner Toolson,TCU,Big 12,SG,6-5,194,7.8,3.0,0.9,0.6,0.3,0.6,20.4,25,0.39,0.284,0.783,Jr
+Xavier Edmonds,TCU,Big 12,PF,6-8,245,12.4,6.0,1.0,0.9,0.9,1.8,22.0,25,0.582,0.407,0.698,Jr
+Amaree Abram,Tennessee,SEC,SG,6-3,200,3.8,1.6,0.8,0.8,0.0,0.4,12.0,21,0.4,0.368,0.813,Sr
+Amari Evans,Tennessee,SEC,SG,6-5,220,3.6,2.8,0.8,1.0,0.2,0.5,11.7,23,0.455,0.259,0.64,Fr
+Bishop Boswell,Tennessee,SEC,SG,6-4,204,6.5,5.2,2.9,1.5,0.1,1.6,25.9,22,0.512,0.5,0.667,So
+Cade Phillips,Tennessee,SEC,PF,6-9,221,3.8,4.0,0.4,0.2,1.1,0.7,16.9,10,0.654,0.0,0.308,Jr
+DeWayne Brown II,Tennessee,SEC,PF,6-8,251,5.2,4.3,1.0,0.3,0.4,0.9,15.8,23,0.593,0.0,0.649,Fr
+Ethan Burg,Tennessee,SEC,SG,6-3,199,2.5,0.8,1.2,0.2,0.1,0.9,9.4,19,0.441,0.476,1.0,So
+Felix Okpara,Tennessee,SEC,PF,6-11,242,6.4,5.8,0.4,0.4,1.4,1.1,25.9,23,0.538,0.444,0.617,Sr
+J.P. Estrella,Tennessee,SEC,PF,6-11,240,9.7,5.2,0.7,0.3,0.3,0.9,17.2,23,0.616,0.375,0.635,So
+Ja'Kobi Gillespie,Tennessee,SEC,PG,6-1,188,18.2,2.8,5.4,1.6,0.2,2.3,33.8,25,0.414,0.36,0.804,Sr
+Jaylen Carey,Tennessee,SEC,PF,6-8,267,7.9,6.0,1.4,0.4,0.0,1.1,18.2,25,0.497,0.0,0.534,Jr
+Nate Ament,Tennessee,SEC,PF,6-10,207,17.7,6.4,2.6,1.0,0.4,2.5,30.3,25,0.421,0.317,0.784,Fr
+Troy Henderson,Tennessee,SEC,PG,6-1,186,2.3,0.5,1.4,0.6,0.0,0.3,8.9,20,0.333,0.333,0.0,Fr
+Camden Heide,Texas,SEC,PF,6-7,215,6.9,2.9,0.7,0.5,0.2,0.5,22.9,24,0.542,0.506,0.667,Jr
+Chendall Weaver,Texas,SEC,SG,6-3,180,6.1,4.3,1.2,0.8,0.1,0.8,21.1,25,0.426,0.231,0.755,Sr
+Dailyn Swain,Texas,SEC,SG,6-8,220,17.6,7.3,3.4,1.9,0.3,2.7,31.6,25,0.573,0.329,0.805,Jr
+Jordan Pope,Texas,SEC,PG,6-1,180,12.6,1.9,2.0,0.4,0.0,0.7,28.1,25,0.398,0.346,0.847,Sr
+Lassina Traore,Texas,SEC,PF,6-10,245,3.4,5.1,0.6,0.5,0.3,1.0,15.6,23,0.449,0.0,0.66,Sr
+Matas Vokietaitis,Texas,SEC,C,7-0,255,15.4,6.9,0.5,0.2,0.9,2.2,25.0,25,0.642,0.0,0.702,So
+Nic Codie,Texas,SEC,PF,6-8,220,4.5,3.0,0.3,0.1,0.4,0.6,12.8,13,0.512,0.125,0.591,So
+Simeon Wilcher,Texas,SEC,SG,6-4,200,7.1,2.2,2.0,0.8,0.3,1.4,20.0,25,0.384,0.359,0.957,Jr
+Tramon Mark,Texas,SEC,SG,6-5,210,13.2,3.6,2.1,0.9,0.5,1.2,27.5,25,0.47,0.294,0.739,Sr
+Ali Dibba,Texas A&M,SEC,SG,6-5,210,5.5,2.8,0.9,1.0,0.2,0.4,14.1,25,0.471,0.516,0.364,Sr
+Federiko Federiko,Texas A&M,SEC,PF,6-11,226,2.3,2.0,0.5,0.5,0.5,0.3,9.4,24,0.645,0.0,0.517,Sr
+Jacari Lane,Texas A&M,SEC,PG,6-0,178,7.4,2.0,3.6,0.7,0.0,1.2,21.8,25,0.41,0.316,0.875,Sr
+Josh Holloway,Texas A&M,SEC,PG,6-1,178,4.8,1.7,2.0,0.8,0.1,1.7,13.1,25,0.488,0.381,0.786,Jr
+Mackenzie Mgbako,Texas A&M,SEC,PF,6-9,225,10.4,4.9,1.3,0.6,0.1,1.7,18.7,7,0.39,0.343,0.882,Jr
+Marcus Hill,Texas A&M,SEC,SG,6-3,192,11.2,3.0,1.7,1.1,0.1,1.2,22.4,25,0.521,0.259,0.7,Sr
+Pop Isaacs,Texas A&M,SEC,PG,6-2,182,10.1,2.3,2.5,0.6,0.1,1.6,21.3,24,0.416,0.397,0.755,Jr
+Rashaun Agee,Texas A&M,SEC,PF,6-7,231,13.7,8.9,2.4,1.0,0.9,1.1,25.4,25,0.481,0.203,0.759,Sr
+Rubén Dominguez,Texas A&M,SEC,SG,6-6,213,11.3,2.3,1.5,0.5,0.2,0.3,24.5,25,0.418,0.406,0.88,So
+Rylan Griffen,Texas A&M,SEC,SG,6-5,181,11.3,2.7,2.7,1.5,0.3,1.6,24.6,23,0.468,0.42,0.833,Sr
+Zach Clemence,Texas A&M,SEC,PF,6-11,232,6.0,2.8,0.8,0.5,0.3,0.8,13.8,25,0.495,0.491,0.818,Sr
+Christian Anderson,Texas Tech,Big 12,SG,6-3,178,19.1,3.4,7.7,1.4,0.3,3.2,38.8,24,0.476,0.435,0.771,So
+Donovan Atwell,Texas Tech,Big 12,SG,6-5,200,12.5,3.3,0.7,1.2,0.2,0.4,34.0,25,0.445,0.446,0.871,Sr
+JT Toppin,Texas Tech,Big 12,PF,6-9,230,21.9,11.0,2.0,1.3,1.6,2.4,35.0,24,0.553,0.286,0.563,Jr
+Jaylen Petty,Texas Tech,Big 12,PG,6-1,168,9.1,3.7,2.3,0.7,0.0,0.8,29.0,24,0.396,0.362,0.879,Fr
+LeJuan Watts,Texas Tech,Big 12,SF,6-6,225,12.2,6.2,2.6,0.8,0.3,2.4,28.5,24,0.424,0.328,0.778,Jr
+Leon Horner,Texas Tech,Big 12,SG,6-4,215,2.8,2.4,0.2,0.3,0.2,0.4,9.6,17,0.5,0.444,0.833,So
+Luke Bamgboye,Texas Tech,Big 12,PF,6-11,220,4.3,2.9,0.5,0.5,1.8,0.4,13.7,12,0.467,0.0,0.719,So
+Tyeree Bryan,Texas Tech,Big 12,SG,6-5,215,4.1,2.8,0.6,0.4,0.3,0.4,18.7,24,0.354,0.297,0.647,Sr
+Carmelo Pacheco,UCF,Big 12,SG,6-5,190,5.0,1.4,0.4,0.2,0.0,0.2,16.2,23,0.407,0.4,1.0,Jr
+Chris Johnson,UCF,Big 12,SG,6-5,196,6.6,1.3,1.7,0.6,0.0,0.7,14.5,23,0.446,0.377,0.741,Jr
+Devan Cambridge,UCF,Big 12,SF,6-6,210,5.8,3.8,1.0,0.5,0.7,0.7,18.4,24,0.479,0.295,0.739,Sr
+Jamichael Stillwell,UCF,Big 12,PF,6-8,225,12.3,8.0,2.0,1.2,0.2,1.8,27.9,22,0.52,0.323,0.722,Sr
+Jeremy Foumena,UCF,Big 12,C,6-11,250,4.0,2.6,0.2,0.1,0.2,0.5,10.2,20,0.54,0.0,0.5,Jr
+John Bol,UCF,Big 12,C,7-2,210,5.7,5.2,0.3,0.3,0.8,1.0,17.5,24,0.75,0.0,0.63,So
+Jordan Burks,UCF,Big 12,PF,6-9,205,12.5,4.3,0.6,1.0,0.5,0.9,26.7,24,0.456,0.383,0.849,Jr
+Riley Kugel,UCF,Big 12,SG,6-5,210,14.3,3.3,2.7,0.9,0.3,1.8,29.0,24,0.409,0.385,0.771,Sr
+Themus Fulks,UCF,Big 12,PG,6-2,185,13.5,3.1,6.8,0.7,0.0,3.0,31.8,24,0.478,0.444,0.779,Sr
+Brandon Williams,UCLA,Big Ten,SG,6-7,230,2.5,1.8,0.5,0.3,0.2,0.3,12.4,24,0.373,0.227,0.588,So
+Donovan Dent,UCLA,Big Ten,PG,6-2,185,13.5,2.5,7.0,1.6,0.4,2.2,34.6,24,0.413,0.186,0.625,Sr
+Eric Dailey Jr.,UCLA,Big Ten,SG,6-8,230,11.0,5.6,1.3,0.7,0.2,1.4,27.6,24,0.465,0.262,0.742,Jr
+Eric Freeny,UCLA,Big Ten,SG,6-4,215,1.3,1.0,0.3,0.1,0.2,0.2,9.5,17,0.296,0.308,1.0,Fr
+Jamar Brown,UCLA,Big Ten,SG,6-5,200,5.0,3.4,0.6,0.7,0.1,0.4,18.7,25,0.463,0.367,1.0,Sr
+Skyy Clark,UCLA,Big Ten,SG,6-3,210,13.1,2.6,2.2,1.3,0.1,1.1,28.4,15,0.475,0.493,0.9,Sr
+Steven Jamerson II,UCLA,Big Ten,PF,6-10,230,2.2,2.4,0.6,0.8,0.5,0.8,11.4,25,0.714,0.0,0.609,Sr
+Trent Perry,UCLA,Big Ten,SG,6-4,190,12.7,2.9,2.5,1.0,0.0,1.3,28.1,24,0.462,0.447,0.849,So
+Tyler Bilodeau,UCLA,Big Ten,PF,6-9,235,17.9,5.6,1.0,0.5,0.4,1.3,30.7,23,0.514,0.452,0.853,Sr
+Xavier Booker,UCLA,Big Ten,PF,6-11,245,7.2,3.7,1.0,0.2,1.2,0.8,20.3,25,0.553,0.415,0.667,Jr
+Alex Karaban,UConn,Big East,PF,6-8,230,13.4,5.4,2.2,0.9,0.8,0.8,33.6,26,0.483,0.422,0.831,Sr
+Braylon Mullins,UConn,Big East,SG,6-6,196,11.8,3.4,1.3,1.1,0.6,1.2,26.6,19,0.459,0.371,0.833,Fr
+Eric Reibe,UConn,Big East,C,7-1,260,7.1,4.0,0.5,0.3,1.0,0.6,15.9,26,0.653,0.308,0.486,Fr
+Jayden Ross,UConn,Big East,PF,6-7,205,4.3,2.1,0.6,0.6,0.4,0.6,15.4,24,0.514,0.395,0.706,Jr
+Jaylin Stewart,UConn,Big East,PF,6-7,225,4.6,2.8,1.2,0.5,0.3,0.8,18.2,26,0.45,0.333,0.6,Jr
+Malachi Smith,UConn,Big East,PG,6-1,180,3.8,1.5,3.0,0.6,0.2,1.0,15.9,26,0.348,0.471,0.514,Sr
+Silas Demary Jr.,UConn,Big East,SG,6-4,195,11.3,4.6,6.4,1.7,0.3,2.3,28.4,26,0.49,0.458,0.794,Jr
+Solo Ball,UConn,Big East,SG,6-4,200,14.7,3.6,1.6,0.6,0.3,1.4,30.1,25,0.415,0.309,0.849,Jr
+Tarris Reed Jr.,UConn,Big East,C,6-11,265,13.6,7.5,2.2,1.0,2.0,1.9,25.7,21,0.636,0.0,0.559,Sr
+CJ Luster II,UNC,ACC,SG,6-3,165,16.8,2.7,1.2,1.0,0.1,1.5,29.9,32,0.429,0.421,0.865,Sr
+Christian May,UNC,ACC,SG,6-5,210,10.3,5.3,1.5,0.7,0.4,1.6,29.6,25,0.413,0.361,0.605,Sr
+Gavin Walsh,UNC,ACC,PF,6-8,225,9.5,6.5,1.0,1.1,0.1,0.9,25.9,15,0.431,0.326,0.458,Jr
+Greedy Williams,UNC,ACC,SG,6-5,190,9.5,2.8,4.1,0.7,0.1,1.7,30.3,26,0.45,0.333,0.782,Sr
+Jahnathan Lamothe,UNC,ACC,SG,6-4,192,3.8,1.4,0.5,0.4,0.0,0.3,13.5,11,0.333,0.414,0.333,Jr
+Madison Durr,UNC,ACC,SG,6-5,195,10.3,2.6,2.2,0.6,0.0,1.3,21.9,26,0.388,0.327,0.745,Sr
+Makoi Mabor Makoi,UNC,ACC,PF,6-11,240,1.5,2.4,0.2,0.0,0.0,0.7,8.5,25,0.552,0.0,0.75,So
+Noah Ross,UNC,ACC,SG,6-7,210,9.5,4.9,2.0,0.8,0.3,0.8,29.2,26,0.455,0.262,0.6,Sr
+Nolan Hodge,UNC,ACC,SG,6-7,190,15.2,4.8,1.5,0.7,0.5,0.9,32.3,26,0.413,0.4,0.792,Sr
+Patrick Wessler,UNC,ACC,PF,7-1,250,13.5,9.2,1.1,0.7,1.1,1.4,26.2,26,0.604,0.0,0.612,Jr
+Alijah Arenas,USC,Big Ten,SG,6-6,199,15.4,3.0,1.4,1.0,0.6,1.9,28.7,7,0.347,0.25,0.69,Fr
+Amarion Dickerson,USC,Big Ten,SG,6-7,197,4.6,3.4,1.1,0.8,0.9,1.0,21.6,8,0.5,0.444,0.611,Sr
+Chad Baker-Mazara,USC,Big Ten,SG,6-7,172,18.3,4.2,3.0,0.7,1.3,2.4,30.2,23,0.437,0.367,0.905,Sr
+Ezra Ausar,USC,Big Ten,PF,6-9,253,15.7,6.0,1.8,1.0,0.4,2.2,29.2,25,0.606,0.0,0.684,Sr
+Gabe Dynes,USC,Big Ten,C,7-5,214,3.5,2.7,0.5,0.2,1.2,0.9,13.2,24,0.813,0.0,0.353,Jr
+Jacob Cofie,USC,Big Ten,PF,6-10,231,9.9,7.2,2.0,1.0,1.6,1.7,30.4,25,0.552,0.304,0.561,So
+Jaden Brownell,USC,Big Ten,PF,6-10,235,5.8,2.1,0.5,0.3,0.3,0.7,11.8,23,0.423,0.319,0.895,Sr
+Jerry Easter II,USC,Big Ten,SG,6-5,193,4.6,3.1,1.2,0.5,0.3,0.8,18.0,24,0.426,0.167,0.744,Fr
+Jordan Marsh,USC,Big Ten,PG,5-11,146,7.4,1.9,2.0,0.8,0.0,1.2,18.2,22,0.426,0.404,0.759,Jr
+Kam Woods,USC,Big Ten,PG,6-2,185,8.5,4.5,3.2,1.8,0.1,1.8,30.8,13,0.404,0.172,0.634,Sr
+Rodney Rice,USC,Big Ten,SG,6-5,199,20.3,3.3,6.0,1.2,0.2,1.8,33.8,6,0.411,0.385,0.744,Jr
+Ryan Cornish,USC,Big Ten,SG,6-5,173,2.3,0.7,0.7,0.2,0.2,0.3,10.2,19,0.353,0.292,1.0,Sr
+Terrance Williams II,USC,Big Ten,PF,6-7,235,2.2,1.8,0.5,0.3,0.0,0.2,12.7,24,0.302,0.211,0.629,Sr
+Babacar Faye,Utah,Big 12,PF,6-9,230,15.2,7.8,0.7,1.1,0.7,1.1,27.7,10,0.537,0.385,0.804,Sr
+Don McHenry,Utah,Big 12,PG,6-2,170,17.4,3.2,1.7,0.8,0.0,1.2,30.8,25,0.434,0.389,0.798,Sr
+Jacob Patrick,Utah,Big 12,SG,6-6,195,7.2,1.4,0.5,0.3,0.6,0.3,20.3,10,0.472,0.465,0.5,Jr
+James Okonkwo,Utah,Big 12,PF,6-8,245,2.5,5.7,0.7,0.6,0.8,0.9,21.6,22,0.55,0.0,0.545,Sr
+Josh Hayes,Utah,Big 12,PF,6-9,210,3.0,1.9,0.2,0.1,1.0,0.4,12.6,25,0.652,0.0,0.696,Jr
+Keanu Dawes,Utah,Big 12,PF,6-9,225,12.8,9.3,2.2,0.5,0.4,1.7,31.0,25,0.564,0.293,0.714,Jr
+Kendyl Sanders,Utah,Big 12,PF,6-8,230,5.3,3.2,0.6,0.5,0.5,0.7,20.6,25,0.44,0.413,0.345,Fr
+Obomate Abbey,Utah,Big 12,PG,6-0,195,2.6,1.5,2.5,0.5,0.0,1.1,16.3,24,0.276,0.219,0.824,Fr
+Seydou Traore,Utah,Big 12,SF,6-6,220,9.3,3.5,1.9,1.2,0.4,1.9,28.2,24,0.398,0.324,0.732,Jr
+Terrence Brown,Utah,Big 12,SG,6-3,175,20.4,2.2,3.8,1.6,0.1,2.4,32.0,25,0.443,0.33,0.781,Jr
+AK Okereke,Vanderbilt,SEC,PF,6-7,244,9.4,3.5,1.8,0.6,0.5,1.2,25.5,25,0.51,0.367,0.822,Sr
+Chandler Bing,Vanderbilt,SEC,SG,6-5,211,3.0,1.5,0.4,0.2,0.2,0.5,11.6,25,0.442,0.318,0.575,Fr
+Devin McGlockton,Vanderbilt,SEC,PF,6-7,230,10.2,6.9,1.4,0.4,0.8,0.8,24.6,25,0.561,0.286,0.8,Sr
+Duke Miles,Vanderbilt,SEC,PG,6-2,180,16.6,3.0,4.3,2.8,0.3,1.8,29.1,18,0.451,0.341,0.887,Sr
+Frankie Collins,Vanderbilt,SEC,PG,6-1,205,7.8,4.2,4.7,2.4,0.1,2.2,20.9,9,0.382,0.25,0.667,Sr
+George Kimble III,Vanderbilt,SEC,PG,6-2,184,18.0,3.7,3.2,2.6,0.4,2.6,29.7,25,0.38,0.348,0.851,Jr
+Jalen Washington,Vanderbilt,SEC,C,6-10,240,9.0,5.6,1.0,0.7,1.2,0.9,20.3,25,0.587,0.296,0.731,Sr
+Mike James,Vanderbilt,SEC,SG,6-5,198,1.6,2.1,0.8,0.1,0.1,0.3,11.2,19,0.303,0.348,0.6,Jr
+Tyler Harris,Vanderbilt,SEC,PF,6-7,202,6.5,2.6,0.4,0.2,0.8,0.5,14.6,25,0.416,0.282,0.533,Jr
+Tyler Nickel,Vanderbilt,SEC,PF,6-7,220,14.8,3.0,1.3,0.8,0.7,0.6,30.1,25,0.494,0.442,0.825,Sr
+Tyler Tanner,Vanderbilt,SEC,PG,6-0,173,18.3,3.5,5.4,2.5,0.5,1.9,31.9,25,0.472,0.372,0.856,So
+Acaden Lewis,Villanova,Big East,PG,6-2,180,12.4,3.2,5.3,2.0,0.1,2.1,30.3,25,0.47,0.282,0.6,Fr
+Bryce Lindsay,Villanova,Big East,SG,6-3,194,12.2,2.2,2.2,0.6,0.0,1.3,28.8,25,0.383,0.351,0.746,So
+Chris Jeffrey,Villanova,Big East,SG,6-3,200,3.4,1.3,0.8,0.5,0.0,0.1,8.4,14,0.471,0.417,0.714,Fr
+Devin Askew,Villanova,Big East,SG,6-5,195,9.9,2.3,2.0,1.1,0.1,1.0,22.7,25,0.413,0.423,0.895,Sr
+Duke Brennan,Villanova,Big East,PF,6-10,250,12.4,10.6,1.7,0.8,0.5,2.0,30.4,24,0.656,0.0,0.619,Sr
+Malachi Palmer,Villanova,Big East,SG,6-6,212,4.3,1.5,0.5,0.6,0.1,0.5,16.1,25,0.493,0.396,0.8,So
+Matt Hodge,Villanova,Big East,PF,6-8,220,9.4,3.7,0.8,0.4,0.6,0.8,27.8,25,0.453,0.368,0.643,Fr
+Tafara Gapare,Villanova,Big East,PF,6-9,215,2.9,2.9,0.4,0.6,0.8,0.7,16.3,9,0.259,0.214,0.818,Sr
+Tyler Perkins,Villanova,Big East,SG,6-4,212,13.6,5.7,1.7,1.1,0.3,0.8,28.8,25,0.445,0.369,0.757,Jr
+Chance Mallory,Virginia,ACC,PG,5-10,186,10.2,3.8,3.5,1.8,0.1,1.2,25.0,25,0.458,0.363,0.758,Fr
+Dallin Hall,Virginia,ACC,SG,6-4,197,5.8,3.6,4.0,0.9,0.1,1.3,28.2,25,0.4,0.301,0.788,Sr
+Devin Tillis,Virginia,ACC,PF,6-7,240,5.1,3.2,1.5,0.2,0.0,0.8,17.7,21,0.42,0.375,0.789,Sr
+Jacari White,Virginia,ACC,SG,6-3,180,8.4,2.2,1.4,0.6,0.0,1.2,16.7,20,0.455,0.452,0.778,Sr
+Johann Grunloh,Virginia,ACC,C,7-0,238,7.6,5.7,0.8,0.5,2.0,0.7,21.8,25,0.507,0.319,0.517,Fr
+Malik Thomas,Virginia,ACC,SG,6-5,215,12.2,4.1,1.7,0.5,0.2,1.6,23.2,25,0.402,0.331,0.712,Sr
+Sam Lewis,Virginia,ACC,SG,6-7,210,10.7,3.6,1.6,0.8,0.2,1.2,25.4,25,0.455,0.396,0.729,Jr
+Thijs De Ridder,Virginia,ACC,PF,6-9,238,15.7,6.6,1.6,0.8,0.4,1.9,27.7,25,0.515,0.324,0.695,Fr
+Ugonna Onyenso,Virginia,ACC,C,7-0,245,6.5,5.0,0.5,0.6,2.6,0.4,18.2,25,0.556,0.269,0.703,Sr
+Amani Hansberry,Virginia Tech,ACC,PF,6-8,240,14.7,8.0,2.6,1.6,0.7,2.2,31.4,25,0.48,0.333,0.735,Jr
+Antonio Dorn,Virginia Tech,ACC,C,7-0,230,2.6,1.7,0.4,0.1,0.2,0.5,9.1,18,0.618,0.0,0.455,Fr
+Ben Hammond,Virginia Tech,ACC,PG,5-11,170,12.7,2.2,3.1,1.8,0.1,1.3,30.3,26,0.436,0.425,0.86,So
+Christian Gurdak,Virginia Tech,ACC,C,6-10,260,5.6,4.6,0.2,0.4,0.4,0.6,17.0,25,0.607,0.0,0.731,Fr
+Izaiah Pasha,Virginia Tech,ACC,SG,6-5,205,2.1,0.8,0.8,0.4,0.3,0.6,8.6,16,0.361,0.167,0.583,So
+Jaden Schutt,Virginia Tech,ACC,SG,6-5,200,8.3,1.7,0.8,0.5,0.0,0.5,25.5,26,0.407,0.41,0.826,Jr
+Jailen Bedford,Virginia Tech,ACC,SG,6-4,190,11.4,3.1,1.0,0.5,0.1,1.1,25.4,25,0.414,0.362,0.686,Sr
+Neoklis Avdalas,Virginia Tech,ACC,SG,6-9,215,12.3,3.0,4.6,0.6,0.6,2.4,31.8,25,0.386,0.296,0.678,Fr
+Tobi Lawal,Virginia Tech,ACC,PF,6-8,215,11.8,8.9,0.5,0.4,1.4,1.8,28.4,17,0.521,0.212,0.742,Sr
+Tyler Johnson,Virginia Tech,ACC,SG,6-5,210,9.5,5.3,1.9,1.5,0.7,0.9,30.8,13,0.53,0.417,0.69,So
+Cooper Schwieger,Wake Forest,ACC,PF,6-10,235,5.1,2.5,0.9,0.5,0.7,0.7,20.8,24,0.528,0.375,0.731,Jr
+Isaac Carr,Wake Forest,ACC,SG,6-4,187,1.9,0.9,1.1,0.2,0.0,0.5,9.6,18,0.5,0.3,0.636,Fr
+Juke Harris,Wake Forest,ACC,SG,6-7,200,21.3,6.7,1.6,1.4,0.3,1.9,33.7,25,0.457,0.355,0.78,So
+Marqus Marion,Wake Forest,ACC,PF,6-9,220,1.6,2.4,0.8,0.4,0.4,0.2,12.3,17,0.435,0.111,0.545,So
+Mekhi Mason,Wake Forest,ACC,SG,6-5,202,7.3,2.8,1.3,1.0,0.3,1.2,20.1,24,0.36,0.327,0.571,Sr
+Myles Colvin,Wake Forest,ACC,SG,6-5,212,12.0,4.4,1.2,1.4,0.4,1.9,27.5,25,0.418,0.347,0.866,Jr
+Nate Calmese,Wake Forest,ACC,PG,6-2,181,10.4,2.0,4.9,1.4,0.1,2.0,25.8,21,0.456,0.388,0.731,Sr
+Omaha Biliew,Wake Forest,ACC,PF,6-8,230,6.1,2.1,0.4,0.6,0.2,0.7,19.0,25,0.434,0.357,0.725,Jr
+Sebastian Akins,Wake Forest,ACC,PG,6-2,175,5.1,1.4,1.8,0.9,0.0,1.1,13.6,25,0.405,0.132,0.821,So
+Tre'Von Spillers,Wake Forest,ACC,PF,6-7,215,11.0,5.5,1.8,1.0,1.3,1.0,28.4,25,0.547,0.35,0.814,Sr
+Bryson Tucker,Washington,Big Ten,PF,6-7,207,6.2,4.3,0.5,0.4,0.2,0.5,23.3,19,0.439,0.273,0.545,So
+Desmond Claude,Washington,Big Ten,SG,6-6,201,13.3,2.4,1.9,0.4,0.1,1.8,27.6,12,0.426,0.3,0.872,Sr
+Franck Kepnang,Washington,Big Ten,C,6-11,253,6.1,6.3,0.2,0.6,2.1,1.0,22.7,26,0.516,0.0,0.674,Sr
+Hannes Steinbach,Washington,Big Ten,PF,6-11,200,18.0,11.3,1.6,1.1,1.1,2.0,34.0,23,0.55,0.359,0.756,Fr
+JJ Mandaquit,Washington,Big Ten,PG,6-1,200,5.2,2.1,3.2,0.5,0.1,1.2,19.7,22,0.436,0.282,0.7,Fr
+Jacob Ognacevic,Washington,Big Ten,PF,6-8,220,3.7,1.2,0.3,0.3,0.0,0.5,13.6,10,0.5,0.471,0.6,Sr
+Jasir Rencher,Washington,Big Ten,SF,6-5,200,3.0,1.8,0.1,0.0,0.3,0.1,8.1,8,0.5,0.2,0.846,Fr
+Lathan Sommerville,Washington,Big Ten,C,6-10,275,4.1,2.9,0.2,0.1,0.3,0.6,13.7,15,0.417,0.25,0.677,So
+Mady Traore,Washington,Big Ten,PF,6-11,195,1.3,1.2,0.2,0.1,0.2,0.2,8.7,12,0.381,0.0,0.0,Jr
+Quimari Peterson,Washington,Big Ten,PG,6-1,190,8.8,2.8,2.2,1.3,0.2,1.0,29.7,26,0.382,0.331,0.76,Sr
+Wesley Yates III,Washington,Big Ten,SG,6-4,219,13.2,2.9,1.2,1.6,0.4,1.6,30.3,20,0.407,0.357,0.778,So
+Zoom Diallo,Washington,Big Ten,SG,6-4,180,14.7,3.5,4.4,0.7,0.0,2.7,28.1,26,0.488,0.327,0.844,So
+Amir Jenkins,West Virginia,Big 12,PG,6-2,170,4.1,2.3,2.2,0.6,0.0,0.7,17.0,25,0.372,0.381,0.543,Fr
+Brenen Lorient,West Virginia,Big 12,PF,6-9,215,11.3,5.1,2.0,0.7,1.3,1.8,27.8,24,0.529,0.333,0.735,Sr
+Chance Moore,West Virginia,Big 12,SG,6-6,210,9.7,4.9,0.7,0.6,0.4,1.3,20.4,19,0.475,0.261,0.6,Sr
+DJ Thomas,West Virginia,Big 12,PF,6-7,210,6.3,2.2,0.6,0.3,0.0,0.9,16.6,25,0.504,0.28,0.69,Fr
+Harlan Obioha,West Virginia,Big 12,C,7-0,280,5.7,5.2,0.9,0.3,0.6,1.0,20.7,25,0.558,1.0,0.575,Sr
+Honor Huff,West Virginia,Big 12,PG,5-10,168,15.6,2.2,1.6,1.0,0.0,1.6,34.6,25,0.365,0.359,0.835,Sr
+Jackson Fields,West Virginia,Big 12,PF,6-8,210,4.3,3.4,1.1,0.2,0.3,0.3,14.2,9,0.536,0.25,0.7,Sr
+Jasper Floyd,West Virginia,Big 12,SG,6-3,190,7.2,3.8,2.9,1.9,0.0,2.1,27.0,25,0.485,0.39,0.673,Sr
+Morris Ugusuk,West Virginia,Big 12,SG,6-4,170,1.6,1.7,0.2,0.2,0.1,0.1,12.4,19,0.294,0.231,0.556,Jr
+Treysen Eaglestaff,West Virginia,Big 12,SF,6-6,190,9.9,4.7,1.4,0.8,0.4,1.3,28.2,25,0.396,0.346,0.737,Sr
+Aleksas Bieliauskas,Wisconsin,Big Ten,PF,6-10,235,4.4,4.0,0.7,0.2,0.7,0.9,17.7,25,0.438,0.308,0.667,Fr
+Andrew Rohde,Wisconsin,Big Ten,SG,6-6,195,6.4,2.0,2.8,1.2,0.1,1.0,25.5,24,0.388,0.316,0.762,Sr
+Austin Rapp,Wisconsin,Big Ten,PF,6-10,238,9.3,3.8,1.7,0.5,0.6,0.9,21.5,21,0.421,0.333,0.844,So
+Braeden Carrington,Wisconsin,Big Ten,SG,6-5,197,7.1,2.6,0.9,0.3,0.3,0.5,16.5,24,0.41,0.408,0.744,Sr
+Elijah Gray,Wisconsin,Big Ten,PF,6-9,235,9.0,3.8,0.6,0.4,0.3,1.6,19.7,25,0.481,0.304,0.75,Sr
+Jack Janicki,Wisconsin,Big Ten,SG,6-5,200,2.2,2.0,1.1,0.7,0.2,0.6,16.7,25,0.313,0.277,0.6,So
+John Blackwell,Wisconsin,Big Ten,SG,6-4,203,19.0,5.0,2.4,1.3,0.1,1.6,33.3,24,0.409,0.376,0.856,Jr
+Nick Boyd,Wisconsin,Big Ten,SG,6-3,177,20.6,3.4,3.7,0.9,0.0,1.7,30.9,25,0.479,0.374,0.816,Sr
+Nolan Winter,Wisconsin,Big Ten,PF,7-0,235,13.7,9.0,1.7,0.6,1.2,0.9,31.3,25,0.573,0.321,0.742,Jr
+All Wright,Xavier,Big East,SG,6-3,190,8.0,1.8,2.1,0.6,0.0,0.6,23.4,25,0.483,0.455,0.816,So
+Anthony Robinson,Xavier,Big East,PF,6-10,252,2.5,2.9,0.3,0.4,0.6,0.6,11.2,20,0.536,0.0,0.417,So
+Filip Borovicanin,Xavier,Big East,PF,6-9,227,10.1,8.0,4.4,1.3,0.6,1.6,30.4,25,0.43,0.325,0.875,Sr
+Gabriel Pozzato,Xavier,Big East,PF,6-7,200,14.9,4.4,1.3,1.3,0.4,2.0,34.9,24,0.447,0.317,0.705,So
+Isaiah Walker,Xavier,Big East,SG,6-5,205,4.3,2.5,0.7,0.6,0.0,0.4,15.6,24,0.432,0.429,0.762,Sr
+Jovan Milicevic,Xavier,Big East,PF,6-10,241,11.7,3.9,1.2,0.6,0.5,1.2,24.6,25,0.443,0.426,0.702,So
+Malik Messina-Moore,Xavier,Big East,SG,6-5,200,10.7,2.8,3.9,1.2,0.1,1.4,32.5,25,0.377,0.35,0.773,Sr
+Pape N'Diaye,Xavier,Big East,PF,7-0,230,2.1,2.2,0.3,0.2,1.0,0.2,9.5,22,0.436,0.412,0.714,So
+Roddie Anderson III,Xavier,Big East,SG,6-3,195,10.6,3.2,2.2,1.4,0.2,1.4,23.1,25,0.376,0.284,0.75,Sr
+Tre Carroll,Xavier,Big East,PF,6-8,235,18.0,5.7,2.7,0.8,1.3,2.4,32.0,25,0.497,0.333,0.678,Sr
